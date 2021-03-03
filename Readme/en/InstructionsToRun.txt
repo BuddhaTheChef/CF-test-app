@@ -1,0 +1,7 @@
+Locate Cold Fusion Admin Page by locating ./cfusion/bin and run './coldfusion start'
+
+To run the app, you must have ColdFusion installed. Create a folder to hold Coldfusion and locate admin page
+
+1. Clone the app repo to /test-coldfusion in your web root.
+2. To Run Test App navigate to localhost://test-coldfusion/restapi/
+3. Point your browser at http://localhost/CFIDE/administrator/index.cfm (Locates admin page for coldfusion)
