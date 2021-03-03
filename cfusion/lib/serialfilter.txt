@@ -1,0 +1,1 @@
+!org.mozilla.**;!com.sun.syndication.**;!org.apache.commons.beanutils.**

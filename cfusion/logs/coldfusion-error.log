@@ -1,0 +1,334 @@
+Feb 26, 2021 5:34:44 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:]
+Feb 26, 2021 5:34:45 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8500"]
+Feb 26, 2021 5:34:45 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Feb 26, 2021 5:34:45 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Feb 26, 2021 5:34:45 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.37]
+Feb 26, 2021 5:34:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: Starting application services
+Feb 26, 2021 5:34:46 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: VM version = 11.0.7+8-LTS
+Feb 26, 2021 5:34:49 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8500"]
+Feb 26, 2021 5:34:49 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Feb 26, 2021 5:34:49 PM com.adobe.coldfusion.launcher.Launcher run
+INFO: Server startup in 4837 ms
+Feb 27, 2021 1:51:21 PM org.apache.catalina.core.StandardServer await
+WARNING: Invalid shutdown command [] received
+Feb 27, 2021 1:51:21 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Feb 27, 2021 1:51:21 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-nio-8500"]
+Feb 27, 2021 1:51:21 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Feb 27, 2021 1:51:21 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@43db50a7]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@38fa8247]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@358ac9b5]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@754118ba]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@43db50a7]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@63a6d974]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@358ac9b5]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@1edf9972]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@43db50a7]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@4382d2ac]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@358ac9b5]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@506e5a03]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@43db50a7]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@5564403]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@358ac9b5]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@672059d2]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@43db50a7]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@3262f028]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@358ac9b5]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@10fe0a25]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@43db50a7]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@273f2265]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@358ac9b5]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@42b41199]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@43db50a7]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@67725a57]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@358ac9b5]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@73dcbbe]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Feb 27, 2021 1:51:21 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-nio-8500"]
+Feb 27, 2021 1:51:21 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Feb 27, 2021 1:51:31 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:]
+Feb 27, 2021 1:51:32 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8500"]
+Feb 27, 2021 1:51:32 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Feb 27, 2021 1:51:32 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Feb 27, 2021 1:51:32 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.37]
+Feb 27, 2021 1:51:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: Starting application services
+Feb 27, 2021 1:51:33 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: VM version = 11.0.7+8-LTS
+Feb 27, 2021 1:51:36 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8500"]
+Feb 27, 2021 1:51:36 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Feb 27, 2021 1:51:36 PM com.adobe.coldfusion.launcher.Launcher run
+INFO: Server startup in 4573 ms
+Feb 27, 2021 1:54:19 PM org.apache.catalina.core.StandardServer await
+WARNING: Invalid shutdown command [] received
+Feb 27, 2021 1:54:19 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Feb 27, 2021 1:54:19 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-nio-8500"]
+Feb 27, 2021 1:54:19 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Feb 27, 2021 1:54:19 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Feb 27, 2021 1:54:19 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-nio-8500"]
+Feb 27, 2021 1:54:19 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Feb 27, 2021 1:54:30 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:]
+Feb 27, 2021 1:54:30 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8500"]
+Feb 27, 2021 1:54:30 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Feb 27, 2021 1:54:30 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Feb 27, 2021 1:54:30 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.37]
+Feb 27, 2021 1:54:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: Starting application services
+Feb 27, 2021 1:54:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: VM version = 11.0.7+8-LTS
+Feb 27, 2021 1:54:34 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8500"]
+Feb 27, 2021 1:54:34 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Feb 27, 2021 1:54:34 PM com.adobe.coldfusion.launcher.Launcher run
+INFO: Server startup in 4813 ms
+Feb 27, 2021 2:13:10 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:]
+Feb 27, 2021 2:13:10 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8500"]
+Feb 27, 2021 2:13:10 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Feb 27, 2021 2:13:10 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Feb 27, 2021 2:13:10 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.37]
+Feb 27, 2021 2:13:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: Starting application services
+Feb 27, 2021 2:13:11 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: VM version = 11.0.7+8-LTS
+Feb 27, 2021 2:13:15 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8500"]
+Feb 27, 2021 2:13:15 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Feb 27, 2021 2:13:15 PM com.adobe.coldfusion.launcher.Launcher run
+INFO: Server startup in 5733 ms
+Mar 01, 2021 2:06:05 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:]
+Mar 01, 2021 2:06:06 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 2:06:06 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 2:06:06 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Mar 01, 2021 2:06:06 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.37]
+Mar 01, 2021 2:06:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: Starting application services
+Mar 01, 2021 2:06:07 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: VM version = 11.0.7+8-LTS
+Mar 01, 2021 2:06:11 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 2:06:11 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 2:06:11 PM com.adobe.coldfusion.launcher.Launcher run
+INFO: Server startup in 5597 ms
+SQLException while attempting to connect: java.sql.SQLException: The mysql package is not installed. You can install the package through the CLI package manager (/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/cfpm.sh) by running the command : install mysql..
+The mysql package is not installed. You can install the package through the CLI package manager (/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/cfpm.sh) by running the command : install mysql.
+The mysql package is not installed. You can install the package through the CLI package manager (/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/cfpm.sh) by running the command : install mysql.
+SQLException while attempting to connect: java.sql.SQLException: The mysql package is not installed. You can install the package through the CLI package manager (/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/cfpm.sh) by running the command : install mysql..
+The mysql package is not installed. You can install the package through the CLI package manager (/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/cfpm.sh) by running the command : install mysql.
+The mysql package is not installed. You can install the package through the CLI package manager (/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/cfpm.sh) by running the command : install mysql.
+Mar 01, 2021 2:41:32 PM org.apache.catalina.core.StandardServer await
+WARNING: Invalid shutdown command [] received
+Mar 01, 2021 2:41:32 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Mar 01, 2021 2:41:32 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 2:41:32 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 2:41:32 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Mar 01, 2021 2:41:32 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@21ac39f9]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@5c4c8433]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 2:41:32 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@7aa2d955]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@487804c1]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 2:41:32 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@21ac39f9]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@70c76594]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 2:41:32 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@7aa2d955]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@7d132a2e]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 2:41:32 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@21ac39f9]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@402474ba]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 2:41:32 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@7aa2d955]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@31864f95]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 2:41:32 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@21ac39f9]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@7a2677f4]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 2:41:32 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@7aa2d955]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@1e0070c4]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 2:41:32 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@21ac39f9]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@7de2461a]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 2:41:32 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@7aa2d955]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@7e9b44d4]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 2:41:32 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@21ac39f9]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@37cb0524]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 2:41:32 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@7aa2d955]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@2ad0c549]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 2:41:32 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 2:41:32 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 2:41:43 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:]
+Mar 01, 2021 2:41:43 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 2:41:43 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 2:41:43 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Mar 01, 2021 2:41:43 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.37]
+Mar 01, 2021 2:41:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: Starting application services
+Mar 01, 2021 2:41:44 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: VM version = 11.0.7+8-LTS
+Mar 01, 2021 2:41:48 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 2:41:48 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 2:41:48 PM com.adobe.coldfusion.launcher.Launcher run
+INFO: Server startup in 5114 ms
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+Mar 01, 2021 4:40:55 PM org.apache.catalina.core.StandardServer await
+WARNING: Invalid shutdown command [] received
+Mar 01, 2021 4:40:55 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Mar 01, 2021 4:40:55 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 4:40:55 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 4:40:55 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Mar 01, 2021 4:40:55 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesJdbc
+WARNING: The web application [ROOT] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+Mar 01, 2021 4:40:55 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+WARNING: The web application [ROOT] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@11.0.7/java.lang.Object.wait(Native Method)
+ java.base@11.0.7/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base@11.0.7/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+ java.base@11.0.7/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+ java.base@11.0.7/java.lang.Thread.run(Thread.java:834)
+Mar 01, 2021 4:40:55 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@bcdad2d]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@2ae619f5]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 4:40:55 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2901bf01]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@7ee25a13]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 4:40:55 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@bcdad2d]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@18a02427]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 4:40:55 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2901bf01]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@213bf77]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 4:40:55 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@bcdad2d]) and a value of type [org.apache.xerces.jaxp.SAXParserFactoryImpl] (value [org.apache.xerces.jaxp.SAXParserFactoryImpl@264ee183]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 4:40:55 PM org.apache.catalina.loader.WebappClassLoaderBase checkThreadLocalMapForLeaks
+SEVERE: The web application [ROOT] created a ThreadLocal with key of type [java.lang.ThreadLocal] (value [java.lang.ThreadLocal@2901bf01]) and a value of type [org.apache.xerces.jaxp.SAXParserImpl] (value [org.apache.xerces.jaxp.SAXParserImpl@4a90159b]) but failed to remove it when the web application was stopped. Threads are going to be renewed over time to try and avoid a probable memory leak.
+Mar 01, 2021 4:40:55 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 4:40:55 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 4:40:55 PM org.apache.catalina.loader.WebappClassLoaderBase checkStateForResourceLoading
+INFO: Illegal access: this web application instance has been stopped already. Could not load [java.util.concurrent.ScheduledFuture]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+java.lang.IllegalStateException: Illegal access: this web application instance has been stopped already. Could not load [java.util.concurrent.ScheduledFuture]. The following stack trace is thrown for debugging purposes as well as to attempt to terminate the thread which caused the illegal access.
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForResourceLoading(WebappClassLoaderBase.java:1385)
+	at org.apache.catalina.loader.WebappClassLoaderBase.checkStateForClassLoading(WebappClassLoaderBase.java:1373)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1226)
+	at org.apache.catalina.loader.WebappClassLoaderBase.loadClass(WebappClassLoaderBase.java:1188)
+	at coldfusion.bootstrap.BootstrapClassLoader.loadClass(BootstrapClassLoader.java:246)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:521)
+	at coldfusion.security.SecurityManager$4.run(SecurityManager.java:1899)
+
+Mar 01, 2021 4:41:06 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:]
+Mar 01, 2021 4:41:06 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 4:41:06 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 4:41:06 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Mar 01, 2021 4:41:06 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.37]
+Mar 01, 2021 4:41:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: Starting application services
+Mar 01, 2021 4:41:08 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: VM version = 11.0.7+8-LTS
+Mar 01, 2021 4:41:12 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 4:41:12 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 4:41:12 PM com.adobe.coldfusion.launcher.Launcher run
+INFO: Server startup in 6160 ms
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.
+Mar 01, 2021 7:36:19 PM org.apache.catalina.core.StandardServer await
+WARNING: Invalid shutdown command [] received
+Mar 01, 2021 7:36:19 PM org.apache.catalina.core.StandardServer await
+INFO: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+Mar 01, 2021 7:36:19 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 7:36:19 PM org.apache.coyote.AbstractProtocol pause
+INFO: Pausing ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 7:36:19 PM org.apache.catalina.core.StandardService stopInternal
+INFO: Stopping service [Catalina]
+Mar 01, 2021 7:36:19 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesJdbc
+WARNING: The web application [ROOT] registered the JDBC driver [com.mysql.cj.jdbc.Driver] but failed to unregister it when the web application was stopped. To prevent a memory leak, the JDBC Driver has been forcibly unregistered.
+Mar 01, 2021 7:36:19 PM org.apache.catalina.loader.WebappClassLoaderBase clearReferencesThreads
+WARNING: The web application [ROOT] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@11.0.7/java.lang.Object.wait(Native Method)
+ java.base@11.0.7/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:91)
+ java.base@11.0.7/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+ java.base@11.0.7/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+ java.base@11.0.7/java.lang.Thread.run(Thread.java:834)
+Mar 01, 2021 7:36:19 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 7:36:19 PM org.apache.coyote.AbstractProtocol stop
+INFO: Stopping ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 7:36:29 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/../lib:]
+Mar 01, 2021 7:36:30 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 7:36:30 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 7:36:30 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service [Catalina]
+Mar 01, 2021 7:36:30 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet engine: [Apache Tomcat/9.0.37]
+Mar 01, 2021 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: Starting application services
+Mar 01, 2021 7:36:31 PM org.apache.catalina.core.ApplicationContext log
+INFO: ColdFusionStartUpServlet: ColdFusion: VM version = 11.0.7+8-LTS
+Mar 01, 2021 7:36:34 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-nio-8500"]
+Mar 01, 2021 7:36:34 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-nio-127.0.0.1-8120"]
+Mar 01, 2021 7:36:34 PM com.adobe.coldfusion.launcher.Launcher run
+INFO: Server startup in 4635 ms
+Loading class `com.mysql.jdbc.Driver'. This is deprecated. The new driver class is `com.mysql.cj.jdbc.Driver'. The driver is automatically registered via the SPI and manual loading of the driver class is generally unnecessary.

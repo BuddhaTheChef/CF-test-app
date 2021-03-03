@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wddxPacket version="1.0">
+   <header />
+   <data>
+      <struct type="coldfusion.server.ConfigMap">
+         <var name="hostIP">
+            <string>127.0.0.1</string>
+         </var>
+         <var name="install_dir">
+            <string>Z:\cfusion\jnbridge</string>
+         </var>
+         <var name="port">
+            <string>6097</string>
+         </var>
+         <var name="protocol">
+            <string>tcp</string>
+         </var>
+         <var name="dotnetport">
+            <string>6098</string>
+         </var>
+         <var name="ipWhitelist">
+            <string>127.0.0.1</string>
+         </var>
+      </struct>
+   </data>
+</wddxPacket>

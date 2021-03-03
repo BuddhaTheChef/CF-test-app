@@ -1,0 +1,2 @@
+server_hotfix_updatelevel=0
+packages=adminapi:2021.0.0.323925,administrator:2021.0.0.323925

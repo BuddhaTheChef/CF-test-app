@@ -1,0 +1,75 @@
+<wddxPacket version='1.0'>
+    <header/>
+    <data>
+        <array length='1'>
+            <struct type='coldfusion.server.ConfigMap'>
+                <var name='displayname'>
+                    <string></string>
+                </var>
+                <var name='bulkwaitstrategy'>
+                    <string>LITE</string>
+                </var>
+                <var name='essockettimeout'>
+                    <number>120000.0</number>
+                </var>
+                <var name='esbulkaction'>
+                    <number>2000.0</number>
+                </var>
+                <var name='essniffinterval'>
+                    <number>30000.0</number>
+                </var>
+                <var name='esconnectiontimeout'>
+                    <number>120000.0</number>
+                </var>
+                <var name='multicastport'>
+                    <number>46864.0</number>
+                </var>
+                <var name='elasticsearchport'>
+                    <number>0</number>
+                </var>
+                <var name='multicastenabled'>
+                    <boolean value='true'/>
+                </var>
+                <var name='esretrytimeout'>
+                    <number>120000.0</number>
+                </var>
+                <var name='esbulksize'>
+                    <number>10.0</number>
+                </var>
+                <var name='hostname'>
+                    <string>$HOSTNAME$</string>
+                </var>
+                <var name='elasticsearchhost'>
+                    <string></string>
+                </var>
+                <var name='esconnectionrequesttimeout'>
+                    <number>120000.0</number>
+                </var>
+                <var name='j2eeport'>
+                    <number>0.0</number>
+                </var>
+                <var name='esnumberofretry'>
+                    <number>3.0</number>
+                </var>
+                <var name='multicastgroupip'>
+                    <string>229.0.0.3</string>
+                </var>
+                <var name='esflushinterval'>
+                    <number>10.0</number>
+                </var>
+                <var name='cluster'>
+                    <string></string>
+                </var>
+                <var name='ringbuffersize'>
+                    <number>2048.0</number>
+                </var>
+                <var name='j2eecontext'>
+                    <string></string>
+                </var>
+                <var name='esbulkthreads'>
+                    <number>8.0</number>
+                </var>
+            </struct>
+        </array>
+    </data>
+</wddxPacket>

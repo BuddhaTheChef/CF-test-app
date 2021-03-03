@@ -1,0 +1,900 @@
+[
+{
+    "bundle" : "awslambda",
+    "description" : "The awslambda package helps you invoke AWS lambda functions",
+    "category" : "serverless",
+    "dependencies" : [
+		    { "name" : "commons-codec" , "version" : "1.10", "embedded" : false },
+		    { "name" : "commons-logging" , "version" : "1.2", "embedded" : false },
+		    { "name" : "jackson-annotations" , "version" : "2.9.0", "embedded" : false },
+		    { "name" : "slf4j-api" , "version" : "1.7.12", "embedded" : false },
+		    { "name" : "annotations" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "eventstream" , "version" : "1.0.1", "embedded" : false },
+		    { "name" : "jackson-core" , "version" : "2.9.8", "embedded" : false },
+		    { "name" : "reactive-streams" , "version" : "1.0.2", "embedded" : false },
+		    { "name" : "netty-common" , "version" : "4.1.45.Final", "embedded" : false },
+		    { "name" : "utils" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "jackson-databind" , "version" : "2.9.8", "embedded" : false },
+		    { "name" : "netty-reactive-streams" , "version" : "2.0.3", "embedded" : false },
+		    { "name" : "http-client-spi" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "netty-resolver" , "version" : "4.1.45.Final", "embedded" : false },
+		    { "name" : "profiles" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "apache-client" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "netty-buffer" , "version" : "4.1.45.Final", "embedded" : false },
+		    { "name" : "netty-transport-native-unix-common" , "version" : "4.1.45.Final", "embedded" : false },
+		    { "name" : "netty-codec" , "version" : "4.1.45.Final", "embedded" : false },
+		    { "name" : "sdk-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "protocol-core" , "version" : "2.10.13", "embedded" : false },
+			{ "name" : "netty-transport-native-unix-common" , "version" : "4.1.45.Final", "embedded" : false },
+		    { "name" : "netty-handler" , "version" : "4.1.45.Final", "embedded" : false },
+		    { "name" : "regions" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "netty-codec-http" , "version" : "4.1.45.Final", "embedded" : false },
+		    { "name" : "auth" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "netty-reactive-streams-http" , "version" : "2.0.3", "embedded" : false },
+		    { "name" : "aws-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "aws-json-protocol" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "netty-codec-http2" , "version" : "4.1.42.Final", "embedded" : false },
+		    { "name" : "lambda" , "version" : "2.10.13", "embedded" : false }
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "awssqs",
+    "description" : "The awssqs package helps you manage messaging and queueing services",
+    "category" : "cloud",
+    "dependencies" : [
+		    { "name" : "commons-codec" , "version" : "1.10", "embedded" : false },
+		    { "name" : "commons-logging" , "version" : "1.2", "embedded" : false },
+		    { "name" : "jackson-annotations" , "version" : "2.9.0", "embedded" : false },
+		    { "name" : "slf4j-api" , "version" : "1.7.12", "embedded" : false },
+		    { "name" : "annotations" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "eventstream" , "version" : "1.0.1", "embedded" : false },
+		    { "name" : "jackson-core" , "version" : "2.9.8", "embedded" : false },
+		    { "name" : "reactive-streams" , "version" : "1.0.2", "embedded" : false },
+		    { "name" : "utils" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "jackson-databind" , "version" : "2.9.8", "embedded" : false },
+		    { "name" : "http-client-spi" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "profiles" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "apache-client" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "sdk-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "protocol-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "regions" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "auth" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "aws-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "aws-query-protocol" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "sqs" , "version" : "2.10.13", "embedded" : false }
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "awssns",
+    "description" : "The awssns package helps you implement messaging services for system-to-system and app-to-person (A2P) communication.",
+    "category" : "cloud",
+    "dependencies" : [
+		    { "name" : "commons-codec" , "version" : "1.10", "embedded" : false },
+		    { "name" : "commons-logging" , "version" : "1.2", "embedded" : false },
+		    { "name" : "jackson-annotations" , "version" : "2.9.0", "embedded" : false },
+		    { "name" : "slf4j-api" , "version" : "1.7.12", "embedded" : false },
+		    { "name" : "annotations" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "eventstream" , "version" : "1.0.1", "embedded" : false },
+		    { "name" : "jackson-core" , "version" : "2.9.8", "embedded" : false },
+		    { "name" : "reactive-streams" , "version" : "1.0.2", "embedded" : false },
+		    { "name" : "utils" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "jackson-databind" , "version" : "2.9.8", "embedded" : false },
+		    { "name" : "http-client-spi" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "profiles" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "apache-client" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "sdk-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "protocol-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "regions" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "auth" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "aws-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "aws-query-protocol" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "sns" , "version" : "2.10.13", "embedded" : false }
+
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "azureservicebus",
+    "description" : "The azureservicebus package lets you integrate messaging services using Microsoft's services.",
+    "category" : "cloud",
+    "dependencies" : [
+		    { "name" : "commons-logging" , "version" : "1.2", "embedded" : false },
+		    { "name" : "commons-codec" , "version" : "1.10", "embedded" : false },
+            { "name" : "commons-lang3" , "version" : "3.4", "embedded" : false },                    
+		    { "name" : "guava" , "version" : "20.0", "embedded" : false },
+            { "name" : "jcip-annotations" , "version" : "1.0-1", "embedded" : false },  
+		    { "name" : "asm" , "version" : "5.0.4", "embedded" : false },
+		    { "name" : "accessors-smart" , "version" : "1.2", "embedded" : false },
+		    { "name" : "json-smart" , "version" : "2.3", "embedded" : false },
+		    { "name" : "slf4j-api" , "version" : "1.7.12", "embedded" : false},
+		    { "name" : "slf4j-log4j12" , "version" : "1.7.12", "embedded" : false},
+            { "name" : "netty-common" , "version" : "4.1.45.Final", "embedded" : true },
+            { "name" : "netty-resolver" , "version" : "4.1.45.Final", "embedded" : true },
+            { "name" : "netty-buffer" , "version" : "4.1.45.Final", "embedded" : true },
+            { "name" : "netty-transport" , "version" : "4.1.45.Final", "embedded" : true },
+            { "name" : "netty-codec" , "version" : "4.1.45.Final", "embedded" : true },
+            { "name" : "netty-handler" , "version" : "4.1.45.Final", "embedded" : true },
+			{ "name" : "netty-codec-http" , "version" : "4.1.45.Final", "embedded" : true },
+			{ "name" : "netty-codec-dns" , "version" : "4.1.45.Final", "embedded" : true },
+            { "name" : "netty-codec-socks" , "version" : "4.1.45.Final", "embedded" : true },
+            { "name" : "netty-handler-proxy" , "version" : "4.1.45.Final", "embedded" : true },
+            { "name" : "netty-reactive-streams" , "version" : "2.0.3", "embedded" : true },
+            { "name" : "netty-resolver-dns" , "version" : "4.1.45.Final", "embedded" : true },
+            { "name" : "netty-transport-native-unix-common" , "version" : "4.1.45.Final", "embedded" : true },
+            { "name" : "netty-transport-native-epoll" , "version" : "4.1.45.Final", "embedded" : true },
+            { "name" : "async-http-client-netty-utils" , "version" : "2.10.5", "embedded" : true },
+			{ "name" : "async-http-client" , "version" : "2.10.5", "embedded" : true },
+			{ "name" : "reactive-streams" , "version" : "1.0.2", "embedded" : false },
+			{ "name" : "joda-time" , "version" : "2.8", "embedded" : false},
+			{ "name" : "jackson-annotations" , "version" : "2.9.0", "embedded" : false },
+			{ "name" : "jackson-core" , "version" : "2.9.8", "embedded" : false },
+			{ "name" : "jackson-databind" , "version" : "2.9.8", "embedded" : false },
+			{ "name" : "jackson-datatype-joda" , "version" : "2.9.8", "embedded" : false },
+			{ "name" : "okio" , "version" : "1.15.0", "embedded" : false },			
+			{ "name" : "okhttp" , "version" : "3.12.6", "embedded" : false },
+			{ "name" : "retrofit" , "version" : "2.7.2", "embedded" : false },
+			{ "name" : "okhttp-urlconnection" , "version" : "3.12.2", "embedded" : false },
+			{ "name" : "logging-interceptor" , "version" : "3.12.2", "embedded" : false },
+			{ "name" : "rxjava" , "version" : "1.3.8", "embedded" : false },
+			{ "name" : "adapter-rxjava" , "version" : "2.7.2", "embedded" : false },
+			{ "name" : "converter-jackson" , "version" : "2.7.2", "embedded" : false },
+			{ "name" : "azure-annotations" , "version" : "1.10.0", "embedded" : false },
+			{ "name" : "nimbus-jose-jwt" , "version" : "8.19", "embedded" : false },
+			{ "name" : "lang-tag" , "version" : "1.5", "embedded" : false },
+		    { "name" : "oauth2-oidc-sdk" , "version" : "6.5", "embedded" : false },
+			{ "name" : "client-runtime" , "version" : "1.7.3", "embedded" : false },
+			{ "name" : "azure-client-runtime" , "version" : "1.7.3", "embedded" : false },
+			{ "name" : "azure-client-authentication" , "version" : "1.7.3", "embedded" : false },
+			{ "name" : "proton-j" , "version" : "0.33.4", "embedded" : true },
+			{ "name" : "qpid-proton-j-extensions" , "version" : "1.2.3", "embedded" : true },
+			{ "name" : "azure-servicebus" , "version" : "3.4.0", "embedded" : true },
+			{ "name" : "adal4j" , "version" : "1.6.4", "embedded" : false }
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "awsdynamodb",
+    "description" : "The awsdynamodb package helps you create and manage DynamoDB services on AWS",
+    "category" : "cloud",
+    "dependencies" : [
+		    { "name" : "commons-codec" , "version" : "1.10", "embedded" : false },
+		    { "name" : "commons-logging" , "version" : "1.2", "embedded" : false },
+		    { "name" : "jackson-annotations" , "version" : "2.9.0", "embedded" : false },
+		    { "name" : "slf4j-api" , "version" : "1.7.12", "embedded" : false },
+		    { "name" : "annotations" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "eventstream" , "version" : "1.0.1", "embedded" : false },
+		    { "name" : "jackson-core" , "version" : "2.9.8", "embedded" : false },
+		    { "name" : "reactive-streams" , "version" : "1.0.2", "embedded" : false },
+		    { "name" : "utils" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "jackson-databind" , "version" : "2.9.8", "embedded" : false },
+		    { "name" : "http-client-spi" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "profiles" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "apache-client" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "sdk-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "protocol-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "regions" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "auth" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "aws-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "aws-json-protocol" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "aws-query-protocol" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "dynamodb" , "version" : "2.10.13", "embedded" : false }
+	],
+	"awsserverless": true
+},
+
+{
+    "bundle" : "ftp", "minimumcoreserverupdaterequired" : 0,
+    "description" : "The ftp package helps you upload and download files to and from an FTP server, and other FTP operations",
+    "dependencies" : [
+                      { "name" : "jsch" , "version" : "0.1.54", "embedded" : false},
+					  { "name" : "commons-net" , "version" : "3.6", "embedded" : false}
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "awss3legacy",
+     "description" : "The awss3legacy package helps store, retrieve, or upload data on SWS S3. This package is a part of cffile and cfdirectory implementations",
+    "category" : "cloud",
+    "dependencies" : [
+                      { "name" : "jets3t" , "version" : "0.9.4", "embedded" : false}
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "websocket",
+    "description" : "The websocket package allows you create WebSocket objects and broadcast messages",
+    "dependencies" : [
+                      { "name" : "netty" , "version" : "3.5.8.Final", "embedded" : false},
+					  { "name" : "slf4j-api" , "version" : "1.7.12", "embedded" : false},
+					  { "name" : "slf4j-log4j12" , "version" : "1.7.12", "embedded" : false}
+ ],
+ 	"extrastoinstall" : [
+                      { "name" : "websocketproxy" , "version" : "1.0", "extension" : ".zip", "targetdir" : ""}
+				  ]
+},
+{
+    "bundle" : "com",
+    "description" : "The com package helps you creates and manipulate a Component Object Model (COM) object using CFML",
+    "dependencies" : [
+                      { "name" : "jintegra" , "version" : "64.03", "embedded" : false}					  
+	],
+	"extrastoinstall" : [
+                      { "name" : "jintegra-bin" , "version" : "64.03", "extension" : ".zip", "targetdir" : "jintegra"}
+				  ]
+},
+
+{
+    "bundle" : "pdf",
+    "description" : "The pdf package lets you read an existing PDF, write meta-data to it, merge PDFs together, delete pages, create thumbnails of the pages, and much more",
+    "category" : "document management",
+    "dependencies" : [
+                      
+		      
+		      { "name" : "js" , "version" : "1.0" },
+		      { "name" : "bcpkix-jdk15on" , "version" : "153"},
+		      { "name" : "jpedal" , "version" : "1.0" },
+		      { "name" : "commons-io" , "version" : "2.7" },
+		      { "name" : "jai_core" , "version" : "1.0"},
+		      { "name" : "jai_codec" , "version" : "1.0"},
+		      { "name" : "jdom" , "version" : "1.1.1"},
+		      { "name" : "iText" , "version" : "1.0"},
+		      { "name" : "ib6util" , "version" : "1.0"},
+		      { "name" : "SparseBitSet" , "version" : "1.2", "embedded" : false },
+		      { "name" : "xmlbeans" , "version" : "3.1.0", "embedded" : false },
+		      { "name" : "poi" , "version" : "4.1.2","embedded" : false},
+		      { "name" : "cf-acrobat" , "version" : "1.0" },
+		      { "name" : "cf-assembler" , "version" : "1.0" },
+		      
+		      { "name" : "document" , "version" : "0.0.1-SNAPSHOT", "type" : "cfdependency"},
+		      { "name" : "image" , "version" : "0.0.1-SNAPSHOT", "type" : "cfdependency"}					  
+					 
+					  
+					  
+ ]
+},{
+    "bundle" : "print",
+    "description" : "The print package helps you print specified pages from a PDF file and perform automated batch print jobs",
+    "category" : "document management",
+    "dependencies" : [
+                      
+		      { "name" : "jpedal" , "version" : "1.0" },
+		      { "name" : "pdf" , "version" : "0.0.1-SNAPSHOT", "type" : "cfdependency"}
+ ]
+},
+{
+    "bundle" : "felixclassloader",
+    "dependencies" : [],
+    "type" : "core",
+    "comment" : "remove ehcache dependency, icu4j dependency",
+	"awsserverless": true
+},
+
+{
+    "bundle" : "report",
+    "description" : "The report package lets you create a report and  displaying it in a PDF, RTF, HTML, XML or Excel format",
+    "category" : "document management",
+    "dependencies" : [ 
+                      { "name" : "commons-logging" , "version" : "1.2", "embedded" : false}, 	
+                      { "name" : "commons-collections" , "version" : "3.2.2", "embedded" : false},
+					  { "name" : "cglib" , "version" : "3.2.6", "embedded" : false},
+                      { "name" : "commons-digester3" , "version" : "3.2", "embedded" : false},
+					  { "name" : "crystal" , "version" : "1.0", "embedded" : false},
+					  { "name" : "jintegra" , "version" : "64.03", "embedded" : false},			  
+                      { "name" : "iText" , "version" : "1.0", "embedded" : false},
+		       { "name" : "commons-math3" , "version" : "3.6.1", "embedded" : false },
+		       { "name" : "xmlbeans" , "version" : "3.1.0", "embedded" : false },
+		      { "name" : "poi" , "version" : "4.1.2", "embedded" : false},
+		              { "name" : "ib6core" , "version" : "1.0", "embedded" : false},
+					  { "name" : "document" , "version" : "0.0.1-SNAPSHOT", "type" : "cfdependency"}
+ ]
+},
+{
+    "bundle" : "exchange",
+    "description" : "The exchange package helps you retrieve mail messages and attachments, deletes messages, and more on a Microsoft Exchange server",
+    "dependencies" : [
+                      { "name" : "commons-httpclient" , "version" : "3.1", "embedded" : false},
+                      { "name" : "commons-lang3" , "version" : "3.4", "embedded" : false},
+					  { "name" : "commons-lang" , "version" : "2.4", "embedded" : false},
+					  { "name" : "commons-io" , "version" : "2.7", "embedded" : false},
+					  { "name" : "ews-java-api" , "version" : "2.1", "embedded" : false}
+	],
+	"awsserverless": true
+},
+
+{
+    "bundle" : "feed",
+    "description" : "The feed package helps you read or create an RSS or Atom syndication feed",
+    "dependencies" : [
+					  { "name" : "jdom" , "version" : "1.1.1", "embedded" : false},
+					  { "name" : "rome-cf" , "version" : "1.0", "embedded" : false}
+	],
+	"awsserverless": false
+},
+{
+    "bundle" : "derby",
+    "description" : "The derby package helps you create an Apache Derby datasource",
+    "category" : "datasources",
+    "dependencies" : [
+                      { "name" : "derby-combined" , "version" : "10.11", "embedded" : false}
+ ],
+ 	"extrastoinstall" : [
+                      { "name" : "derby-examples" , "version" : "1.0", "extension" : ".zip", "targetdir" : "db"}
+				  ]
+},
+{
+    "bundle" : "oracle",
+    "description" : "The oracle package helps you create an Oracle datasource",
+    "category" : "datasources",
+    "dependencies" : [
+	                  		  { "name" : "bcpkix-jdk15on" , "version" : "153", "embedded" : false},
+					  { "name" : "joda-time" , "version" : "2.8", "embedded" : false},
+					  { "name" : "adobe_drivers_common" , "version" : "2.0", "embedded" : false},
+                      { "name" : "adobe_oracledriver" , "version" : "6.0", "embedded" : false}
+
+					  
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "mysql",
+    "description" : "The mysql package helps you create an MySQL datasource",
+    "category" : "datasources",
+    "dependencies" : [
+                      		  { "name" : "bcpkix-jdk15on" , "version" : "153", "embedded" : false},
+					  { "name" : "joda-time" , "version" : "2.8", "embedded" : false},
+					  { "name" : "adobe_drivers_common" , "version" : "2.0", "embedded" : false},
+                      { "name" : "adobe_mysqldriver" , "version" : "1.0", "embedded" : false}
+
+					  
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "sqlserver",
+    "description" : "The sqlserver package helps you create an SQL server datasource",
+    "category" : "datasources",
+    "dependencies" : [
+					  { "name" : "bcpkix-jdk15on" , "version" : "153", "embedded" : false},
+					  { "name" : "joda-time" , "version" : "2.8", "embedded" : false},
+					  { "name" : "adobe_drivers_common" , "version" : "2.0", "embedded" : false},
+                      { "name" : "adobe_sqlserverdriver" , "version" : "6.0", "embedded" : false}
+
+					  
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "db2",
+    "description" : "The db2 package helps you create an DB2 datasource",
+    "category" : "datasources",
+    "dependencies" : [
+					  { "name" : "bcpkix-jdk15on" , "version" : "153", "embedded" : false},
+					  { "name" : "joda-time" , "version" : "2.8", "embedded" : false},
+					  { "name" : "adobe_drivers_common" , "version" : "2.0", "embedded" : false},
+                      { "name" : "adobe_db2driver" , "version" : "1.0", "embedded" : false}
+
+
+					  
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "sybase",
+    "description" : "The sybase package helps you create an Sybase datasource",
+    "category" : "datasources",
+    "dependencies" : [
+					  { "name" : "bcpkix-jdk15on" , "version" : "153", "embedded" : false},
+					  { "name" : "joda-time" , "version" : "2.8", "embedded" : false},
+					  { "name" : "adobe_drivers_common" , "version" : "2.0", "embedded" : false},
+                      { "name" : "adobe_sybasedriver" , "version" : "1.0", "embedded" : false}
+					  
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "postgresql",
+    "description" : "The postgresql package helps you create an Postgresql datasource",
+    "category" : "datasources",
+    "dependencies" : [
+                      { "name" : "postgresql" , "version" : "42.2.14", "embedded" : false}					  
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "odbc",
+    "description" : "The odbc package helps you connect to various database services",
+    "category" : "datasources",
+    "alias" : "sequelink",
+    "dependencies" : [
+					  { "name" : "bcpkix-jdk15on" , "version" : "153", "embedded" : false},
+					  { "name" : "joda-time" , "version" : "2.8", "embedded" : false},
+					  { "name" : "adobe_drivers_common" , "version" : "2.0", "embedded" : false},
+					  { "name" : "adobe_sequelink" , "version" : "1.0", "embedded" : false}
+                     ],
+	"extrastoinstall" : [
+                      { "name" : "odbcagent" , "version" : "1.0", "extension" : ".zip", "targetdir" : "db"}
+				  ]
+},
+{
+    "bundle" : "htmltopdf",
+    "description" : "The htmltopdf package helps you create PDF output from a text block containing CFML and HTML using the PDF Service Manager",
+    "category" : "document management",
+    "dependencies" : [
+	                 { "name" : "jetty-util" , "version" : "9.4.31", "embedded" : false},	
+					 { "name" : "jetty-io" , "version" : "9.4.31", "embedded" : false},
+					 { "name" : "jetty-xml" , "version" : "9.4.31", "embedded" : false},	
+					 { "name" : "jetty-http" , "version" : "9.4.31", "embedded" : false},
+                     { "name" : "jetty-server" , "version" : "9.4.31", "embedded" : false},
+					 { "name" : "jetty-security" , "version" : "9.4.31", "embedded" : false},						  
+                     { "name" : "jetty-servlet" , "version" : "9.4.31", "embedded" : false},
+                     { "name" : "iText" , "version" : "1.0", "embedded" : false},
+					 { "name" : "iTextAsian" , "version" : "1.0", "embedded" : false},
+					 { "name" : "ib6util" , "version" : "1.0", "embedded" : false},
+					 { "name" : "ib6core" , "version" : "1.0", "embedded" : false},
+					 { "name" : "ib6https" , "version" : "1.0", "embedded" : false},
+					 { "name" : "ib6http" , "version" : "1.0", "embedded" : false},
+					 { "name" : "ri_generic" , "version" : "1.0", "embedded" : false},
+					 { "name" : "bcpkix-jdk15on" , "version" : "153", "embedded" : false},
+					 { "name" : "bcmail-jdk15on" , "version" : "153", "embedded" : false},
+					 { "name" : "bcprov-jdk15on" , "version" : "153", "embedded" : false},
+					 { "name" : "commons-lang3" , "version" : "3.4", "embedded" : false },
+					 { "name" : "document" , "version" : "0.0.1-SNAPSHOT", "type" : "cfdependency"},
+					 { "name" : "image" , "version" : "0.0.1-SNAPSHOT", "type" : "cfdependency"},
+					 { "name" : "pdf" , "version" : "0.0.1-SNAPSHOT", "type" : "cfdependency"}					 
+ ]
+},
+{
+    "bundle" : "search",
+    "description" : "The search package helps you search one or more Solr collections",
+    "dependencies" : [
+	                  { "name" : "slf4j-api" , "version" : "1.7.12", "embedded" : false},
+					  { "name" : "slf4j-log4j12" , "version" : "1.7.12", "embedded" : false},
+                      { "name" : "solr-core" , "version" : "5.2.1", "embedded" : false},
+					  { "name" : "solr-solrj" , "version" : "5.2.1", "embedded" : false},
+					  { "name" : "lucene-core-analyzers-common" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-queries" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-analyzers-smartcn" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-backward-codecs" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucenedemo" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-grouping" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-join" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-memory" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-highlighter" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-misc" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-sandbox" , "version" : "6.6.1", "embedded" : false},						  
+					  { "name" : "lucene-queryparser" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-spatial3d" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-spatial" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-spatial-extras" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-suggest" , "version" : "6.6.1", "embedded" : false},
+                      { "name" : "SparseBitSet" , "version" : "1.2", "embedded" : false },
+		              { "name" : "xmlbeans" , "version" : "3.1.0", "embedded" : false },
+		              { "name" : "poi" , "version" : "4.1.2", "embedded" : false},	
+                      { "name" : "commons-io" , "version" : "2.7", "embedded" : false},		  
+                      { "name" : "xmlbeans" , "version" : "3.1.0", "embedded" : false},	           
+					  { "name" : "commons-compress" , "version" : "1.19", "embedded" : false},
+					  { "name" : "xmpcore" , "version" : "1.0"},
+                      { "name" : "metadata-extractor" , "version" : "2.8.1"}
+ ]
+},
+{
+    "bundle" : "orm",
+    "description" : "The orm package allows you to work with objects and have them saved to the database automatically",
+    "dependencies" : [
+					  { "name" : "hibernate-commons-annotations" , "version" : "5.0.1", "embedded" : false},
+					  { "name" : "hibernate-jpa-2.1-api" , "version" : "1.0.0", "embedded" : false},
+					  { "name" : "hibernate-core" , "version" : "5.2.11", "embedded" : false},
+					  { "name" : "hibernate-ehcache" , "version" : "5.2.10", "embedded" : false},
+					  { "name" : "hibernate-testing" , "version" : "5.2.10", "embedded" : false},
+					  { "name" : "caching" , "version" : "0.0.1-SNAPSHOT", "type" : "cfdependency"}		
+
+	],
+	"awsserverless": false
+},
+{
+    "bundle" : "ormsearch",
+    "description" : "The ormsearch package helps you search for text in specific properties or entities, or based on a Lucene query",
+    "dependencies" : [
+		              { "name" : "orm" , "version" : "0.0.1-SNAPSHOT" , "type" : "cfdependency"},
+					  { "name" : "lucene-core-analyzers-common" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-queries" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-analyzers-smartcn" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-backward-codecs" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucenedemo" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-grouping" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-join" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-memory" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-highlighter" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-misc" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-sandbox" , "version" : "6.6.1", "embedded" : false},						  
+					  { "name" : "lucene-queryparser" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-spatial3d" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-spatial" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-spatial-extras" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-suggest" , "version" : "6.6.1", "embedded" : false}
+	],
+	"awsserverless": false
+},
+{
+    "bundle" : "eventgateways",
+    "description" : "The eventgateways package lets ColdFusion react to or generated external events or messages in an asynchronous manner",
+    "dependencies" : [
+                      { "name" : "im" , "version" : "1.0", "embedded" : false},
+					  { "name" : "smpp" , "version" : "1.0", "embedded" : false},
+					  { "name" : "stcomm" , "version" : "1.0", "embedded" : false},
+					  { "name" : "smack" , "version" : "1.0", "embedded" : false},
+					  { "name" : "jms" , "version" : "1.0", "embedded" : false}
+					  
+	],
+ 	"extrastoinstall" : [
+                      { "name" : "eventgateways-examples" , "version" : "1.0", "extension" : ".zip", "targetdir" : "gateway"}
+				  ]
+},
+{
+    "bundle" : "cfmongodb",
+    "description" : "The cfmongodb package helps you create apps on a document-based, distributed NoSQL database",
+    "category" : "nosql",
+    "dependencies" : [
+                      { "name" : "mongo-java-driver" , "version" : "3.11.0", "embedded" : false}					  
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "sharepoint",
+    "description" : "The sharepoint package helps you create lists, retrieve list items, and update list items on a SharePoint server",
+    "dependencies" : [
+	                  { "name" : "commons-codec" , "version" : "1.10", "embedded" : false },                   
+                      { "name" : "commons-logging" , "version" : "1.2", "embedded" : false},
+                      { "name" : "commons-io" , "version" : "2.7", "embedded" : false},
+                      { "name" : "commons-httpclient" , "version" : "3.1", "embedded" : false},
+                      { "name" : "commons-fileupload" , "version" : "1.4", "embedded" : false},
+                      { "name" : "commons-discovery" , "version" : "0.4", "embedded" : false},
+                      { "name" : "commons-net" , "version" : "3.6", "embedded" : false},
+					  { "name" : "jaxrpc" , "version" : "1.1", "embedded" : false},
+		              { "name" : "axis" , "version" : "0.0.1-SNAPSHOT", "type" : "cfdependency"}
+	],
+    "type" : "system",
+    "comment" : "axis dependency",
+	"awsserverless": false
+},
+
+{
+    "bundle" : "awss3",
+    "description" : "The awss3 package helps you store, retrieve, or upload data on AWS S3. This package is a part of cloud implementation services",
+    "category" : "cloud",
+    "dependencies" : [
+		    { "name" : "commons-codec" , "version" : "1.10", "embedded" : false },
+		    { "name" : "commons-logging" , "version" : "1.2", "embedded" : false },
+		    { "name" : "jackson-annotations" , "version" : "2.9.0", "embedded" : false },
+		    { "name" : "slf4j-api" , "version" : "1.7.12", "embedded" : false },
+		    { "name" : "annotations" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "eventstream" , "version" : "1.0.1", "embedded" : false },
+		    { "name" : "jackson-core" , "version" : "2.9.8", "embedded" : false },
+		    { "name" : "reactive-streams" , "version" : "1.0.2", "embedded" : false },
+		    { "name" : "utils" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "jackson-databind" , "version" : "2.9.8", "embedded" : false },
+		    { "name" : "http-client-spi" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "profiles" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "apache-client" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "sdk-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "protocol-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "regions" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "auth" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "aws-core" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "aws-query-protocol" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "aws-xml-protocol" , "version" : "2.10.13", "embedded" : false },
+		    { "name" : "s3" , "version" : "2.10.13", "embedded" : false }
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "document",
+    "description" : "The document package helps you creates PDF output from a text block containing CFML and HTML",
+    "category" : "document management",
+    "dependencies" : [
+	                 { "name" : "iText" , "version" : "1.0", "embedded" : false},
+					 { "name" : "iTextAsian" , "version" : "1.0", "embedded" : false},
+					 { "name" : "ib6util" , "version" : "1.0", "embedded" : false},
+					 { "name" : "ib6core" , "version" : "1.0", "embedded" : false},
+					 { "name" : "ib6https" , "version" : "1.0", "embedded" : false},
+					 { "name" : "ib6http" , "version" : "1.0", "embedded" : false},
+					 { "name" : "ri_generic" , "version" : "1.0", "embedded" : false},
+					 { "name" : "oosdkclasses" , "version" : "1.0", "embedded" : false},
+					 { "name" : "unoil" , "version" : "1.0", "embedded" : false},
+					 { "name" : "unoloader" , "version" : "1.0", "embedded" : false},
+					 { "name" : "fontmanager" , "version" : "1.0", "embedded" : false}
+ ]
+},
+
+{
+    "bundle" : "azureblob",
+    "description" : "The azureblob package lets you store large amounts of unstructured data on Microsoft's data storage platform",
+    "category" : "cloud",
+    "dependencies" : [
+        { "name" : "commons-logging" , "version" : "1.2", "embedded" : false },
+        { "name" : "commons-codec" , "version" : "1.10", "embedded" : false },
+        { "name" : "commons-lang3" , "version" : "3.4", "embedded" : false },                    
+        { "name" : "guava" , "version" : "20.0", "embedded" : false },
+        { "name" : "jcip-annotations" , "version" : "1.0-1", "embedded" : false },
+        { "name" : "asm" , "version" : "5.0.4", "embedded" : false },
+        { "name" : "accessors-smart" , "version" : "1.2", "embedded" : false },
+        { "name" : "json-smart" , "version" : "2.3", "embedded" : false },
+        { "name" : "slf4j-api" , "version" : "1.7.12", "embedded" : false},
+        { "name" : "slf4j-log4j12" , "version" : "1.7.12", "embedded" : false},
+        { "name" : "reactive-streams" , "version" : "1.0.2", "embedded" : false },
+        { "name" : "jackson-annotations" , "version" : "2.9.0", "embedded" : false },
+        { "name" : "jackson-core" , "version" : "2.9.8", "embedded" : false },
+        { "name" : "jackson-databind" , "version" : "2.9.8", "embedded" : false },
+		{ "name" : "joda-time" , "version" : "2.8", "embedded" : false},
+        { "name" : "jackson-datatype-joda" , "version" : "2.9.8", "embedded" : false },
+        { "name" : "okio" , "version" : "1.14.0", "embedded" : false },			
+        { "name" : "okhttp" , "version" : "3.11.0", "embedded" : false },
+        { "name" : "retrofit" , "version" : "2.5.0", "embedded" : false },
+        { "name" : "okhttp-urlconnection" , "version" : "3.11.0", "embedded" : false },
+        { "name" : "logging-interceptor" , "version" : "3.11.0", "embedded" : false },
+        { "name" : "rxjava" , "version" : "1.3.8", "embedded" : false },
+        { "name" : "adapter-rxjava" , "version" : "2.4.0", "embedded" : false },
+        { "name" : "converter-jackson" , "version" : "2.5.0", "embedded" : false },
+        { "name" : "azure-annotations" , "version" : "1.7.0", "embedded" : false },
+        { "name" : "nimbus-jose-jwt" , "version" : "8.2", "embedded" : false },
+        { "name" : "lang-tag" , "version" : "1.4.4", "embedded" : false },
+        { "name" : "oauth2-oidc-sdk" , "version" : "5.64.4", "embedded" : false },
+        { "name" : "client-runtime" , "version" : "1.6.7", "embedded" : false }, 
+        { "name" : "proton-j" , "version" : "0.31.0", "embedded" : true },
+		{ "name" : "qpid-proton-j-extensions" , "version" : "1.2.0", "embedded" : true },    
+        { "name" : "azure-keyvault" , "version" : "1.2.1", "embedded" : false },
+        { "name" : "azure-keyvault-core" , "version" : "1.0.0", "embedded" : false },
+        { "name" : "azure-keyvault-cryptography" , "version" : "1.2.1", "embedded" : false },
+        { "name" : "azure-keyvault-webkey" , "version" : "1.2.1", "embedded" : false },
+        { "name" : "azure-storage" , "version" : "8.3.0", "embedded" : false },
+        { "name" : "azure-client-runtime" , "version" : "1.6.7", "embedded" : false }
+    ],
+	"awsserverless": true
+},
+{
+    "bundle" : "scheduler",
+    "description" : "The scheduler package allows you to run a CFML page at scheduled intervals, with the option to write the page output to a static HTML page",
+    "dependencies" : [
+                     { "name" : "slf4j-api" , "version" : "1.7.12" },
+		     { "name" : "c3p0" , "version" : "0.9.1.1" },
+		     { "name" : "quartz" , "version" : "2.2.1" }
+	],
+	"awsserverless": false
+},
+{
+    "bundle" : "saml",
+    "description" : "The saml package lets you configure ColdFusion applications with SAML authentication",
+    "category" : "security",
+    "dependencies" : [
+					  { "name" : "commons-codec" , "version" : "1.10", "embedded" : false},
+					  { "name" : "commons-io" , "version" : "2.7", "embedded" : false},
+					  { "name" : "slf4j-api" , "version" : "1.7.12", "embedded" : false},
+					  { "name" : "commons-lang3" , "version" : "3.4", "embedded" : false},
+					  { "name" : "ehcache" , "version" : "2.10.3", "embedded" : false},
+					  { "name" : "xmlsec" , "version" : "2.0.7", "embedded" : false},
+					  { "name" : "joda-time" , "version" : "2.9.4", "embedded" : false},
+					  { "name" : "java-saml" , "version" : "2.4.0", "embedded" : false},
+					  { "name" : "java-saml-core" , "version" : "2.4.0", "embedded" : false}
+	],
+	"awsserverless": false
+},
+{
+    "bundle" : "debugger",
+    "description" : "The debugger package helps you debug CFML applications. You can set breakpoints, step over, into, or out of code, and inspect variables",
+    "dependencies" : [
+	                  { "name" : "jetty-util" , "version" : "9.4.31", "embedded" : false},	
+					  { "name" : "jetty-io" , "version" : "9.4.31", "embedded" : false},
+					  { "name" : "jetty-xml" , "version" : "9.4.31", "embedded" : false},	
+					  { "name" : "jetty-http" , "version" : "9.4.31", "embedded" : false},
+                      { "name" : "jetty-server" , "version" : "9.4.31", "embedded" : false},
+					  { "name" : "jetty-security" , "version" : "9.4.31", "embedded" : false},						  
+                      { "name" : "jetty-servlet" , "version" : "9.4.31", "embedded" : false}
+				  
+	]
+},
+{
+    "bundle" : "pmtagent",
+    "alias" : "perfmon",
+    "description" : "The pmtagent package helps you configure ColdFusion with Performance Monitoring Toolset",
+    "dependencies" : [
+					  { "name" : "commons-lang3" , "version" : "3.4", "embedded" : false},
+					  { "name" : "commons-net" , "version" : "3.6", "embedded" : false},
+					  { "name" : "disruptor" , "version" : "3.3.7", "embedded" : false},
+					  { "name" : "joda-time" , "version" : "2.8", "embedded" : false},
+					  { "name" : "lucene-core-analyzers-common" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-queries" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-analyzers-smartcn" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-backward-codecs" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucenedemo" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-grouping" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-join" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-memory" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-highlighter" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-misc" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "lucene-sandbox" , "version" : "6.6.1", "embedded" : false},						  
+					  { "name" : "lucene-queryparser" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-spatial3d" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-spatial" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-spatial-extras" , "version" : "6.6.1", "embedded" : false},	
+					  { "name" : "lucene-suggest" , "version" : "6.6.1", "embedded" : false},
+					  { "name" : "jna" , "version" : "4.5.0", "embedded" : false},
+					  { "name" : "jna-platform" , "version" : "4.5.0", "embedded" : false},
+					  { "name" : "jackson-core" , "version" : "2.9.8", "embedded" : false },
+					  { "name" : "elasticsearch-rest-client" , "version" : "5.6.16", "embedded" : true},
+					  { "name" : "elasticsearch" , "version" : "5.6.16", "embedded" : true},
+					  { "name" : "threetenbp" , "version" : "1.3.6", "embedded" : false},
+					  { "name" : "oshi-core" , "version" : "3.4.4", "embedded" : false},
+					  { "name" : "sniffer" , "version" : "5.3.2", "embedded" : true},
+                      { "name" : "caching" , "version" : "0.0.1-SNAPSHOT", "type" : "cfdependency"}			  
+	]
+},
+{
+    "bundle" : "dotnet",
+    "description" : "The dotnet package lets you access and use Microsoft .NET assembly classes as CFML objects",
+    "dependencies" : [
+ ]
+},
+{
+    "bundle" : "mail",
+    "description" : "The mail package helps you send emails or use a query to send a mail message to a database-driven list of recipients",
+    "dependencies" : [
+		      { "name" : "bcpkix-jdk15on" , "version" : "153" },
+		      { "name" : "bcmail-jdk15on" , "version" : "153" }
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "zip",
+    "description" : "The zip package helps you execute tasks like zip and unzip, and also list contents in an archive",
+    "dependencies" : [
+                      
+		      { "name" : "commons-net" , "version" : "3.6"},
+			  { "name" : "commons-logging" , "version" : "1.2"},        
+			  { "name" : "commons-httpclient" , "version" : "3.1"},
+              { "name" : "commons-collections" , "version" : "3.2.2", "comment" : "commons-vfs2  needs it"},
+		      { "name" : "jsch" , "version" : "0.1.54", "comment" : "commons-vfs2  needs it"},
+		      { "name" : "zip4j" , "version" : "1.3.1_cf" }
+	],
+	"awsserverless": true
+},
+{
+    "bundle" : "image",
+    "description" : "The image package lets you perform various image processing functions",
+    "dependencies" : [
+    { "name" : "commons-io" , "version" : "2.7"},
+    { "name" : "tika-core" , "version" : "1.20"},
+    { "name" : "xmpcore" , "version" : "1.0"},
+    { "name" : "metadata-extractor" , "version" : "2.8.1"},
+    { "name" : "commons-imaging" , "version" : "1.0-alpha2"},
+    { "name" : "common-image" , "version" : "3.3.2"},
+    { "name" : "jai_codec" , "version" : "1.0"},
+	{ "name" : "jai_imageio" , "version" : "1.0"},
+    { "name" : "jai_core" , "version" : "1.0"}
+	],
+	"awsserverless": true
+},{
+    "bundle" : "redissessionstorage",
+    "alias" : "sessionstorage",
+    "description" : "The redissessionstorage package lets you store sessions in external cache servers like Redis, instead of in-memory storage in ColdFusion servers",
+    "dependencies" : [
+                      
+		     { "name" : "commons-pool2" , "version" : "2.4.2", "embedded" : false },
+		     { "name" : "slf4j-api" , "version" : "1.7.12" },
+		     { "name" : "jedis" , "version" : "2.9.0", "embedded" : false,"dependencies" : "commons-pool2"}
+	],
+	"awsserverless": true
+},{
+    "bundle" : "chart",
+    "alias" : "graph",
+    "description" : "The chart package helps you create plots and graphs using CFML.",
+    "category" : "ui",
+    "dependencies" : [
+                      
+		     { "name" : "commons-pool2" , "version" : "2.4.2", "embedded" : false },
+		     { "name" : "slf4j-api" , "version" : "1.7.12" },
+		     { "name" : "chart" , "version" : "2.8", "embedded" : false}
+	],
+	"awsserverless": false
+},{
+    "bundle" : "spreadsheet",
+    "description" : "The spreadsheet package lets you execute spreadsheet functions on an XLSX or CSV file",
+    "category" : "document management",
+    "dependencies" : [
+                     { "name" : "commons-collections4" , "version" : "4.1", "embedded" : false },
+		     { "name" : "xmlbeans" , "version" : "3.1.0", "embedded" : false },
+		     { "name" : "commons-logging" , "version" : "1.2", "embedded" : false },
+		     { "name" : "commons-codec" , "version" : "1.10", "embedded" : false },
+			 { "name" : "commons-math3" , "version" : "3.6.1", "embedded" : false },
+			 { "name" : "SparseBitSet" , "version" : "1.2", "embedded" : false },
+                     { "name" : "poi" , "version" : "4.1.2","embedded" : false}	
+		     	     		     
+    ],
+	"awsserverless": true
+},{
+    "bundle" : "ajax",
+    "description" : "The ajax package helps you develop effective Ajax applications that use ColdFusion to provide dynamic data",
+    "category" : "ui",
+    "dependencies" : [],
+	 	"extrastoinstall" : [
+                      { "name" : "ajax" , "version" : "0.0.1-SNAPSHOT", "extension" : ".zip", "targetdir" : ""}
+	],
+    "type" : "ajax",
+	"awsserverless": false
+},
+{
+    "bundle" : "caching",
+    "description" : "The caching package lets you improve your application's performance using the various caching engines, like, EHCache, JCS, Redis, and Memcached",
+    "category" : "caching",
+    "dependencies" : [
+                      { "name" : "commons-logging" , "version" : "1.2" },
+		      { "name" : "slf4j-api" , "version" : "1.7.12" },
+                      { "name" : "commons-pool2" , "version" : "2.4.2", "embedded" : false },
+                      { "name" : "spymemcached" , "version" : "2.10.3"},
+		      { "name" : "jedis" , "version" : "2.9.0", "embedded" : false},    
+		      { "name" : "commons-jcs-core" , "version" : "2.1" },
+		      { "name" : "ehcache-web" , "version" : "2.0.4" }
+                     ],
+    "comment" : "ehcache core and web being used across the code. So not removing from LIB. Using it and setting them in felix's system package. Later we can remove once dependent code is also converted to bundles",
+	"awsserverless": true
+},
+{
+    "bundle" : "axis",
+    "description" : "The axis package helps you to create web services using SOAP and WSDL specifications",
+    "category" : "web services",
+    "dependencies" : [
+                      { "name" : "axiom-api" , "version" : "1.2.13", "embedded" : false},
+					  { "name" : "axiom-dom" , "version" : "1.2.13", "embedded" : false},
+                      { "name" : "axiom-impl" , "version" : "1.2.13", "embedded" : false},
+					  { "name" : "axis2-adb" , "version" : "1.7.0", "embedded" : false},	
+                      { "name" : "axis2-adb-codegen" , "version" : "1.7.0", "embedded" : false},
+					  { "name" : "axis2-codegen" , "version" : "1.7.0", "embedded" : false},
+                      { "name" : "axis2-jaxws" , "version" : "1.7.0", "embedded" : false},
+					  { "name" : "axis2-kernel" , "version" : "1.7.0", "embedded" : false},	
+                      { "name" : "axis2-transport-http" , "version" : "1.7.0", "embedded" : false},
+					  { "name" : "axis2-transport-local" , "version" : "1.7.0", "embedded" : false},
+                      { "name" : "geronimo-ws-metadata_2.0_spec" , "version" : "1.1.3", "embedded" : false},
+                      { "name" : "neethi" , "version" : "3.0.2", "embedded" : false},
+					  { "name" : "woden-api" , "version" : "1.0", "embedded" : false},
+                      { "name" : "woden-impl-commons" , "version" : "1.0", "embedded" : false},
+					  { "name" : "woden-impl-dom" , "version" : "1.0", "embedded" : false},	
+                      { "name" : "wsdl4j" , "version" : "1.6.2", "embedded" : false},
+					  { "name" : "wstx-asl" , "version" : "3.2.9", "embedded" : false},
+                      { "name" : "XmlSchema" , "version" : "1.4.8", "embedded" : false},					  
+                      { "name" : "axis" , "version" : "1.2.1", "embedded" : false},
+                      { "name" : "commons-fileupload" , "version" : "1.4", "embedded" : false},
+                      { "name" : "commons-io" , "version" : "2.7", "embedded" : false}	  
+	],
+	"awsserverless": false
+} ,{
+    "bundle" : "presentation",
+    "description" : "The presentation package helps you define the look of a dynamic slide presentation",
+    "category" : "document management",
+    "dependencies" : [
+                      { "name" : "commons-collections4" , "version" : "4.1", "embedded" : false },
+		       { "name" : "commons-httpclient" , "version" : "3.1", "embedded" : false},
+		       { "name" : "commons-math3" , "version" : "3.6.1", "embedded" : false },
+		       { "name" : "SparseBitSet" , "version" : "1.2", "embedded" : false },
+		       { "name" : "xmlbeans" , "version" : "3.1.0", "embedded" : false },
+                      { "name" : "poi" , "version" : "3.17", "embedded" : false},
+		      { "name" : "commons-logging" , "version" : "1.2", "embedded" : false },
+		      { "name" : "document" , "version" : "0.0.1-SNAPSHOT", "type" : "cfdependency"}
+ ]
+},
+{
+    "bundle" : "adminapi",
+     "description" : "The adminapi package modifies the administrator-level settings",
+    	"extrastoinstall" : [
+                      { "name" : "adminapi" ,"override" : false, "version" : "0.0.1-SNAPSHOT", "extension" : ".zip", "targetdir" : "/wwwroot/CFIDE/adminapi"}
+	]
+},
+{
+    "bundle" : "administrator",
+    "description" : "The administrator package manages and changes the settings of ColdFusion server",
+    "dependencies" : [{ "name" : "adminapi" , "version" : "0.0.1-SNAPSHOT", "type" : "cfdependency"}],
+ 	"extrastoinstall" : [
+                      { "name" : "administrator" ,"override" : false, "version" : "0.0.1-SNAPSHOT", "extension" : ".zip", "targetdir" : "/wwwroot/CFIDE/administrator"}
+	]
+}
+]

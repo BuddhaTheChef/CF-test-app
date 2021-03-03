@@ -1,0 +1,8 @@
+"Severity","ThreadID","Date","Time","Application","Message"
+"Information","http-nio-8500-exec-8","02/26/21","17:41:18","","/Users/ajwietechaii/Desktop/ColdFusion/cfusion/logs/http.log initialized"
+"Information","http-nio-8500-exec-8","02/26/21","17:41:18","","Starting HTTP request {URL='https://www.adobe.com/go/coldfusion-updates', method='get'}"
+"Information","http-nio-8500-exec-8","02/26/21","17:41:19","","HTTP request completed  {Status Code=200 ,Time taken=933 ms}"
+"Information","http-nio-8500-exec-10","02/26/21","17:41:20","","Starting HTTP request {URL='https://www.adobe.com/go/coldfusion-updates', method='get'}"
+"Information","http-nio-8500-exec-10","02/26/21","17:41:20","","HTTP request completed  {Status Code=200 ,Time taken=177 ms}"
+"Information","http-nio-8500-exec-2","02/26/21","18:23:39","","Starting HTTP request {URL='https://www.adobe.com/go/coldfusion-updates', method='get'}"
+"Information","http-nio-8500-exec-2","02/26/21","18:23:39","","HTTP request completed  {Status Code=200 ,Time taken=552 ms}"

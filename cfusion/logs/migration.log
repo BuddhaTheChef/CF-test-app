@@ -1,0 +1,3 @@
+"Severity","ThreadID","Date","Time","Application","Message"
+"Information","http-nio-8500-exec-10","02/26/21","17:35:36","","/Users/ajwietechaii/Desktop/ColdFusion/cfusion/logs/migration.log initialized"
+"Error","http-nio-8500-exec-10","02/26/21","17:35:36","CFADMIN","Could not unzip and deploy cfadmin help. - &#x2f;Users&#x2f;ajwietechaii&#x2f;Desktop&#x2f;ColdFusion&#x2f;cfusion&#x2f;temp_zip&#x2f;cfusion-examples-db.zip"

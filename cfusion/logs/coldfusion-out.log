@@ -1,0 +1,1067 @@
+Feb 26, 2021 17:34:46 PM Information [main] - /Users/ajwietechaii/Desktop/ColdFusion/cfusion/logs/server.log initialized
+Feb 26, 2021 17:34:46 PM Information [main] - Starting logging...
+Feb 26, 2021 17:34:46 PM Information [main] - Starting license...
+Feb 26, 2021 17:34:47 PM Information [main] - Developer Edition enabled
+Feb 26, 2021 17:34:47 PM Information [main] - Starting crypto...
+Feb 26, 2021 17:34:48 PM Information [main] - Installed JSafe JCE provider: Version 6.21 Crypto-J 6.2.1, EMC Corporation. JsafeJCE Security Provider (implements RSA, DSA, ECDSA, Diffie-Hellman, ECDH, AES, DES, Triple DES, DESX, RC2, RC4, RC5, PBE, MD2, MD5, RIPEMD160, SHA1, SHA224, SHA256, SHA384, SHA512, HMAC-MD5, HMAC-RIPEMD160, HMAC-SHA1, HMAC-SHA224, HMAC-SHA256, HMAC-SHA384, HMAC-SHA512, HMACDRBG, HASHDRBG, CTRDRBG, FIPS186PRNG, SHA1PRNG, MD5PRNG; RFC 3394, RFC 5649 AES Key Wrap; X.509 CertificateFactory; PKCS12, PKCS15 KeyStore; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathValidators; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathBuilders; LDAP, Collection CertStores)
+Feb 26, 2021 17:34:48 PM Information [main] - Starting security...
+Feb 26, 2021 17:34:48 PM Information [main] - Starting scheduler...
+Feb 26, 2021 17:34:48 PM Information [main] - Starting WatchService...
+Feb 26, 2021 17:34:48 PM Information [main] - Starting sql...
+Feb 26, 2021 17:34:48 PM Information [main] - Starting runtime...
+Feb 26, 2021 17:34:49 PM Information [main] - Starting client...
+Feb 26, 2021 17:34:49 PM Information [main] - Starting archive...
+Feb 26, 2021 17:34:49 PM Information [main] - Starting CloudConfig...
+Feb 26, 2021 17:34:49 PM Information [main] - Starting VendorCredential...
+Feb 26, 2021 17:34:49 PM Information [main] - Starting rest...
+Feb 26, 2021 17:34:49 PM Information [main] - Starting registry...
+Feb 26, 2021 17:34:49 PM Information [main] - Package adminapi started...
+Feb 26, 2021 17:34:49 PM Information [main] - Package administrator started...
+Feb 26, 2021 17:34:49 PM Information [main] - redissessionstorage package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - debugger package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - zip package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - image package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - caching package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - cfmongodb package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - mail package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - spreadsheet package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - axis package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - chart package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - feed package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - print package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - search package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - document package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - presentation package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - eventgateways package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - dotnet package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - pmtagent package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - htmltopdf package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - awslambda package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - com package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - saml package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - awss3 package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - awss3legacy package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - azureblob package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - pdf package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - websocket package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - orm package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - ormsearch package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - ajax package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - derby package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - oracle package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - mysql package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - db2 package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - sybase package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - postgresql package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - sqlserver package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - odbc package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - scheduler package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - ftp package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - awssqs package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - awssns package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - azureservicebus package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - awsdynamodb package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - report package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - exchange package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - sharepoint package will not be deployed as it is not installed.
+Feb 26, 2021 17:34:49 PM Information [main] - ColdFusion started
+Feb 26, 2021 17:34:49 PM Information [main] - ColdFusion: application services are now available
+Feb 26, 2021 17:35:20 PM Information [http-nio-8500-exec-1] - Initialize client.properties file
+Feb 26, 2021 17:35:31 PM Information [http-nio-8500-exec-6] - /Users/ajwietechaii/Desktop/ColdFusion/cfusion/logs/application.log initialized
+Feb 26, 2021 17:35:31 PM Information [http-nio-8500-exec-6] - Session rotated successfully.
+Feb 26, 2021 17:41:18 PM Information [http-nio-8500-exec-8] - /Users/ajwietechaii/Desktop/ColdFusion/cfusion/logs/http.log initialized
+Feb 26, 2021 17:41:18 PM Information [http-nio-8500-exec-8] - Starting HTTP request {URL='https://www.adobe.com/go/coldfusion-updates', method='get'}
+Feb 26, 2021 17:41:19 PM Information [http-nio-8500-exec-8] - HTTP request completed  {Status Code=200 ,Time taken=933 ms}
+Feb 26, 2021 17:41:20 PM Information [http-nio-8500-exec-10] - Starting HTTP request {URL='https://www.adobe.com/go/coldfusion-updates', method='get'}
+Feb 26, 2021 17:41:20 PM Information [http-nio-8500-exec-10] - HTTP request completed  {Status Code=200 ,Time taken=177 ms}
+Feb 26, 2021 18:14:15 PM Information [http-nio-8500-exec-8] - Session rotated successfully.
+Feb 26, 2021 18:23:39 PM Information [http-nio-8500-exec-2] - Starting HTTP request {URL='https://www.adobe.com/go/coldfusion-updates', method='get'}
+Feb 26, 2021 18:23:39 PM Information [http-nio-8500-exec-2] - HTTP request completed  {Status Code=200 ,Time taken=552 ms}
+Feb 26, 2021 19:01:04 PM Information [scheduler-1] - Run Client Storage Purge
+Feb 26, 2021 20:49:51 PM Information [scheduler-1] - Run Client Storage Purge
+Feb 26, 2021 21:58:02 PM Information [scheduler-0] - Run Client Storage Purge
+Feb 26, 2021 23:39:19 PM Information [scheduler-0] - Run Client Storage Purge
+Feb 27, 2021 00:47:33 AM Information [scheduler-0] - Run Client Storage Purge
+Feb 27, 2021 01:55:43 AM Information [scheduler-1] - Run Client Storage Purge
+Feb 27, 2021 03:03:53 AM Information [scheduler-5] - Run Client Storage Purge
+Feb 27, 2021 04:12:02 AM Information [scheduler-6] - Run Client Storage Purge
+Feb 27, 2021 05:20:13 AM Information [scheduler-4] - Run Client Storage Purge
+Feb 27, 2021 06:28:23 AM Information [scheduler-5] - Run Client Storage Purge
+Feb 27, 2021 07:37:43 AM Information [scheduler-4] - Run Client Storage Purge
+Feb 27, 2021 08:45:54 AM Information [scheduler-4] - Run Client Storage Purge
+Feb 27, 2021 09:54:05 AM Information [scheduler-3] - Run Client Storage Purge
+Feb 27, 2021 11:01:05 AM Information [scheduler-4] - Run Client Storage Purge
+Feb 27, 2021 11:43:14 AM Information [http-nio-8500-exec-2] - Session rotated successfully.
+Feb 27, 2021 11:43:14 AM Information [http-nio-8500-exec-2] - Invalid login for Default User
+Feb 27, 2021 11:43:21 AM Information [http-nio-8500-exec-10] - Session rotated successfully.
+Feb 27, 2021 12:08:05 PM Information [scheduler-4] - Run Client Storage Purge
+Feb 27, 2021 13:43:02 PM Information [scheduler-4] - Run Client Storage Purge
+Feb 27, 2021 13:51:21 PM Information [Thread-10] - ColdFusion stopped
+Feb 27, 2021 13:51:33 PM Information [main] - Starting logging...
+Feb 27, 2021 13:51:33 PM Information [main] - Starting license...
+Feb 27, 2021 13:51:34 PM Information [main] - Developer Edition enabled
+Feb 27, 2021 13:51:34 PM Information [main] - Starting crypto...
+Feb 27, 2021 13:51:34 PM Information [main] - Installed JSafe JCE provider: Version 6.21 Crypto-J 6.2.1, EMC Corporation. JsafeJCE Security Provider (implements RSA, DSA, ECDSA, Diffie-Hellman, ECDH, AES, DES, Triple DES, DESX, RC2, RC4, RC5, PBE, MD2, MD5, RIPEMD160, SHA1, SHA224, SHA256, SHA384, SHA512, HMAC-MD5, HMAC-RIPEMD160, HMAC-SHA1, HMAC-SHA224, HMAC-SHA256, HMAC-SHA384, HMAC-SHA512, HMACDRBG, HASHDRBG, CTRDRBG, FIPS186PRNG, SHA1PRNG, MD5PRNG; RFC 3394, RFC 5649 AES Key Wrap; X.509 CertificateFactory; PKCS12, PKCS15 KeyStore; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathValidators; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathBuilders; LDAP, Collection CertStores)
+Feb 27, 2021 13:51:34 PM Information [main] - Starting security...
+Feb 27, 2021 13:51:34 PM Information [main] - Starting scheduler...
+Feb 27, 2021 13:51:35 PM Information [main] - Starting WatchService...
+Feb 27, 2021 13:51:35 PM Information [main] - Starting sql...
+Feb 27, 2021 13:51:35 PM Information [main] - Starting runtime...
+Feb 27, 2021 13:51:35 PM Information [main] - Starting client...
+Feb 27, 2021 13:51:35 PM Information [main] - Starting archive...
+Feb 27, 2021 13:51:35 PM Information [main] - Starting CloudConfig...
+Feb 27, 2021 13:51:35 PM Information [main] - Starting VendorCredential...
+Feb 27, 2021 13:51:35 PM Information [main] - Starting rest...
+Feb 27, 2021 13:51:36 PM Information [main] - Starting registry...
+Feb 27, 2021 13:51:36 PM Information [main] - Package adminapi started...
+Feb 27, 2021 13:51:36 PM Information [main] - Package administrator started...
+Feb 27, 2021 13:51:36 PM Information [main] - redissessionstorage package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - debugger package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - zip package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - image package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - caching package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - cfmongodb package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - mail package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - spreadsheet package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - axis package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - chart package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - feed package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - print package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - search package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - document package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - presentation package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - eventgateways package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - dotnet package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - pmtagent package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - htmltopdf package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - awslambda package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - com package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - saml package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - awss3 package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - awss3legacy package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - azureblob package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - pdf package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - websocket package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - orm package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - ormsearch package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - ajax package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - derby package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - oracle package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - mysql package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - db2 package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - sybase package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - postgresql package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - sqlserver package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - odbc package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - scheduler package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - ftp package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - awssqs package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - awssns package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - azureservicebus package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - awsdynamodb package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - report package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - exchange package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - sharepoint package will not be deployed as it is not installed.
+Feb 27, 2021 13:51:36 PM Information [main] - ColdFusion started
+Feb 27, 2021 13:51:36 PM Information [main] - ColdFusion: application services are now available
+Feb 27, 2021 13:53:11 PM Error [http-nio-8500-exec-7] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 7
+Feb 27, 2021 13:53:11 PM  [] - 
+Feb 27, 2021 13:53:18 PM Error [http-nio-8500-exec-8] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 7
+Feb 27, 2021 13:53:19 PM Error [http-nio-8500-exec-9] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 7
+Feb 27, 2021 13:53:19 PM Error [http-nio-8500-exec-10] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 7
+Feb 27, 2021 13:53:21 PM Error [http-nio-8500-exec-1] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 7
+Feb 27, 2021 13:53:37 PM Error [http-nio-8500-exec-3] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 7
+Feb 27, 2021 13:53:59 PM Error [http-nio-8500-exec-4] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/index.cfm, line: 7
+Feb 27, 2021 13:54:01 PM Error [http-nio-8500-exec-5] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/index.cfm, line: 7
+Feb 27, 2021 13:54:01 PM Error [http-nio-8500-exec-6] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/index.cfm, line: 7
+Feb 27, 2021 13:54:01 PM Error [http-nio-8500-exec-7] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/index.cfm, line: 7
+Feb 27, 2021 13:54:02 PM Error [http-nio-8500-exec-8] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/index.cfm, line: 7
+Feb 27, 2021 13:54:02 PM Error [http-nio-8500-exec-9] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/index.cfm, line: 7
+Feb 27, 2021 13:54:12 PM Error [http-nio-8500-exec-2] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 7
+Feb 27, 2021 13:54:19 PM Information [Thread-10] - ColdFusion stopped
+Feb 27, 2021 13:54:31 PM Information [main] - Starting logging...
+Feb 27, 2021 13:54:31 PM Information [main] - Starting license...
+Feb 27, 2021 13:54:33 PM Information [main] - Developer Edition enabled
+Feb 27, 2021 13:54:33 PM Information [main] - Starting crypto...
+Feb 27, 2021 13:54:33 PM Information [main] - Installed JSafe JCE provider: Version 6.21 Crypto-J 6.2.1, EMC Corporation. JsafeJCE Security Provider (implements RSA, DSA, ECDSA, Diffie-Hellman, ECDH, AES, DES, Triple DES, DESX, RC2, RC4, RC5, PBE, MD2, MD5, RIPEMD160, SHA1, SHA224, SHA256, SHA384, SHA512, HMAC-MD5, HMAC-RIPEMD160, HMAC-SHA1, HMAC-SHA224, HMAC-SHA256, HMAC-SHA384, HMAC-SHA512, HMACDRBG, HASHDRBG, CTRDRBG, FIPS186PRNG, SHA1PRNG, MD5PRNG; RFC 3394, RFC 5649 AES Key Wrap; X.509 CertificateFactory; PKCS12, PKCS15 KeyStore; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathValidators; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathBuilders; LDAP, Collection CertStores)
+Feb 27, 2021 13:54:33 PM Information [main] - Starting security...
+Feb 27, 2021 13:54:33 PM Information [main] - Starting scheduler...
+Feb 27, 2021 13:54:33 PM Information [main] - Starting WatchService...
+Feb 27, 2021 13:54:33 PM Information [main] - Starting sql...
+Feb 27, 2021 13:54:33 PM Information [main] - Starting runtime...
+Feb 27, 2021 13:54:34 PM Information [main] - Starting client...
+Feb 27, 2021 13:54:34 PM Information [main] - Starting archive...
+Feb 27, 2021 13:54:34 PM Information [main] - Starting CloudConfig...
+Feb 27, 2021 13:54:34 PM Information [main] - Starting VendorCredential...
+Feb 27, 2021 13:54:34 PM Information [main] - Starting rest...
+Feb 27, 2021 13:54:34 PM Information [main] - Starting registry...
+Feb 27, 2021 13:54:34 PM Information [main] - Package adminapi started...
+Feb 27, 2021 13:54:34 PM Information [main] - Package administrator started...
+Feb 27, 2021 13:54:34 PM Information [main] - redissessionstorage package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - debugger package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - zip package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - image package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - caching package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - cfmongodb package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - mail package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - spreadsheet package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - axis package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - chart package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - feed package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - print package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - search package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - document package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - presentation package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - eventgateways package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - dotnet package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - pmtagent package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - htmltopdf package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - awslambda package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - com package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - saml package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - awss3 package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - awss3legacy package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - azureblob package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - pdf package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - websocket package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - orm package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - ormsearch package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - ajax package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - derby package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - oracle package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - mysql package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - db2 package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - sybase package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - postgresql package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - sqlserver package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - odbc package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - scheduler package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - ftp package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - awssqs package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - awssns package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - azureservicebus package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - awsdynamodb package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - report package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - exchange package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - sharepoint package will not be deployed as it is not installed.
+Feb 27, 2021 13:54:34 PM Information [main] - ColdFusion started
+Feb 27, 2021 13:54:34 PM Information [main] - ColdFusion: application services are now available
+Feb 27, 2021 13:54:49 PM Error [http-nio-8500-exec-1] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 7
+Feb 27, 2021 13:55:15 PM Error [http-nio-8500-exec-2] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 7
+Feb 27, 2021 13:55:16 PM Error [http-nio-8500-exec-3] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 7
+Feb 27, 2021 13:55:16 PM Error [http-nio-8500-exec-4] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 7
+Feb 27, 2021 14:01:25 PM Error [http-nio-8500-exec-8] - Attribute validation error for tag CFTEXTAREA.It requires the attribute(s): NAME. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 54
+Feb 27, 2021 14:01:40 PM Error [http-nio-8500-exec-9] - Attribute validation error for tag CFTEXTAREA.It requires the attribute(s): NAME. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 54
+Feb 27, 2021 14:01:41 PM Error [http-nio-8500-exec-10] - Attribute validation error for tag CFTEXTAREA.It requires the attribute(s): NAME. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 54
+Feb 27, 2021 14:01:55 PM Error [http-nio-8500-exec-1] - Attribute validation error for tag CFTEXTAREA.It requires the attribute(s): NAME. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 54
+Feb 27, 2021 14:01:56 PM Error [http-nio-8500-exec-2] - Attribute validation error for tag CFTEXTAREA.It requires the attribute(s): NAME. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 54
+Feb 27, 2021 14:13:12 PM Information [main] - Starting logging...
+Feb 27, 2021 14:13:12 PM Information [main] - Starting license...
+Feb 27, 2021 14:13:13 PM Information [main] - Developer Edition enabled
+Feb 27, 2021 14:13:13 PM Information [main] - Starting crypto...
+Feb 27, 2021 14:13:13 PM Information [main] - Installed JSafe JCE provider: Version 6.21 Crypto-J 6.2.1, EMC Corporation. JsafeJCE Security Provider (implements RSA, DSA, ECDSA, Diffie-Hellman, ECDH, AES, DES, Triple DES, DESX, RC2, RC4, RC5, PBE, MD2, MD5, RIPEMD160, SHA1, SHA224, SHA256, SHA384, SHA512, HMAC-MD5, HMAC-RIPEMD160, HMAC-SHA1, HMAC-SHA224, HMAC-SHA256, HMAC-SHA384, HMAC-SHA512, HMACDRBG, HASHDRBG, CTRDRBG, FIPS186PRNG, SHA1PRNG, MD5PRNG; RFC 3394, RFC 5649 AES Key Wrap; X.509 CertificateFactory; PKCS12, PKCS15 KeyStore; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathValidators; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathBuilders; LDAP, Collection CertStores)
+Feb 27, 2021 14:13:13 PM Information [main] - Starting security...
+Feb 27, 2021 14:13:13 PM Information [main] - Starting scheduler...
+Feb 27, 2021 14:13:14 PM Information [main] - Starting WatchService...
+Feb 27, 2021 14:13:14 PM Information [main] - Starting sql...
+Feb 27, 2021 14:13:14 PM Information [main] - Starting runtime...
+Feb 27, 2021 14:13:15 PM Information [main] - Starting client...
+Feb 27, 2021 14:13:15 PM Information [main] - Starting archive...
+Feb 27, 2021 14:13:15 PM Information [main] - Starting CloudConfig...
+Feb 27, 2021 14:13:15 PM Information [main] - Starting VendorCredential...
+Feb 27, 2021 14:13:15 PM Information [main] - Starting rest...
+Feb 27, 2021 14:13:15 PM Information [main] - Starting registry...
+Feb 27, 2021 14:13:15 PM Information [main] - Package adminapi started...
+Feb 27, 2021 14:13:15 PM Information [main] - Package administrator started...
+Feb 27, 2021 14:13:15 PM Information [main] - redissessionstorage package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - debugger package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - zip package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - image package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - caching package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - cfmongodb package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - mail package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - spreadsheet package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - axis package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - chart package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - feed package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - print package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - search package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - document package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - presentation package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - eventgateways package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - dotnet package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - pmtagent package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - htmltopdf package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - awslambda package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - com package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - saml package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - awss3 package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - awss3legacy package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - azureblob package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - pdf package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - websocket package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - orm package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - ormsearch package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - ajax package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - derby package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - oracle package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - mysql package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - db2 package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - sybase package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - postgresql package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - sqlserver package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - odbc package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - scheduler package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - ftp package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - awssqs package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - awssns package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - azureservicebus package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - awsdynamodb package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - report package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - exchange package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - sharepoint package will not be deployed as it is not installed.
+Feb 27, 2021 14:13:15 PM Information [main] - ColdFusion started
+Feb 27, 2021 14:13:15 PM Information [main] - ColdFusion: application services are now available
+Feb 27, 2021 14:19:07 PM Error [http-nio-8500-exec-2] - Invalid CFML construct found on line 10 at column 227.ColdFusion was looking at the following text:<p>;</p><p>The CFML compiler was processing:<ul><li>An expression that began on line 10, column 223.<br>The expression might be missing an ending #, for example, #expr instead of #expr#.<li>The tag attribute style, on line 10, column 47.<li>A cfform tag beginning on line 10, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 10
+Feb 27, 2021 14:19:41 PM Error [http-nio-8500-exec-3] - Invalid CFML construct found on line 10 at column 216.ColdFusion was looking at the following text:<p>;</p><p>The CFML compiler was processing:<ul><li>An expression that began on line 10, column 212.<br>The expression might be missing an ending #, for example, #expr instead of #expr#.<li>The tag attribute style, on line 10, column 47.<li>A cfform tag beginning on line 10, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 10
+Feb 27, 2021 14:21:05 PM Error [http-nio-8500-exec-4] - Invalid CFML construct found on line 10 at column 217.ColdFusion was looking at the following text:<p>;</p><p>The CFML compiler was processing:<ul><li>An expression that began on line 10, column 213.<br>The expression might be missing an ending #, for example, #expr instead of #expr#.<li>The tag attribute style, on line 10, column 47.<li>A cfform tag beginning on line 10, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 10
+Feb 27, 2021 14:58:44 PM Error [http-nio-8500-exec-8] - Variable TEXT2 is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 99
+Feb 27, 2021 15:10:56 PM Error [http-nio-8500-exec-8] - Invalid CFML construct found on line 107 at column 115.ColdFusion was looking at the following text:<p>;</p><p>The CFML compiler was processing:<ul><li>An expression that began on line 107, column 108.<br>The expression might be missing an ending #, for example, #expr instead of #expr#.<li>The tag attribute style, on line 107, column 64.<li>A cfinput tag beginning on line 107, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 107
+Feb 27, 2021 15:12:33 PM Error [http-nio-8500-exec-1] - Invalid CFML construct found on line 107 at column 115.ColdFusion was looking at the following text:<p>;</p><p>The CFML compiler was processing:<ul><li>An expression that began on line 107, column 108.<br>The expression might be missing an ending #, for example, #expr instead of #expr#.<li>The tag attribute style, on line 107, column 64.<li>A cfinput tag beginning on line 107, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 107
+Feb 27, 2021 15:23:20 PM Information [scheduler-1] - Run Client Storage Purge
+Feb 27, 2021 16:30:20 PM Information [scheduler-0] - Run Client Storage Purge
+Feb 27, 2021 17:45:40 PM Information [scheduler-0] - Run Client Storage Purge
+Feb 27, 2021 18:52:40 PM Information [scheduler-0] - Run Client Storage Purge
+Feb 27, 2021 20:10:00 PM Information [scheduler-0] - Run Client Storage Purge
+Feb 27, 2021 21:29:14 PM Information [scheduler-0] - Run Client Storage Purge
+Feb 27, 2021 22:48:35 PM Information [scheduler-2] - Run Client Storage Purge
+Feb 28, 2021 00:07:51 AM Information [scheduler-0] - Run Client Storage Purge
+Feb 28, 2021 01:27:11 AM Information [scheduler-1] - Run Client Storage Purge
+Feb 28, 2021 02:49:29 AM Information [scheduler-0] - Run Client Storage Purge
+Feb 28, 2021 04:08:50 AM Information [scheduler-3] - Run Client Storage Purge
+Feb 28, 2021 05:28:06 AM Information [scheduler-0] - Run Client Storage Purge
+Feb 28, 2021 07:13:59 AM Information [scheduler-4] - Run Client Storage Purge
+Feb 28, 2021 08:33:20 AM Information [scheduler-3] - Run Client Storage Purge
+Feb 28, 2021 09:52:40 AM Information [scheduler-3] - Run Client Storage Purge
+Feb 28, 2021 11:11:56 AM Information [scheduler-2] - Run Client Storage Purge
+Feb 28, 2021 12:31:16 PM Information [scheduler-4] - Run Client Storage Purge
+Feb 28, 2021 13:50:31 PM Information [scheduler-0] - Run Client Storage Purge
+Feb 28, 2021 16:26:17 PM Information [scheduler-2] - Run Client Storage Purge
+Mar 1, 2021 02:27:13 AM Information [scheduler-1] - Run Client Storage Purge
+Mar 1, 2021 14:06:07 PM Information [main] - Starting logging...
+Mar 1, 2021 14:06:07 PM Information [main] - Starting license...
+Mar 1, 2021 14:06:08 PM Information [main] - Developer Edition enabled
+Mar 1, 2021 14:06:09 PM Information [main] - Starting crypto...
+Mar 1, 2021 14:06:09 PM Information [main] - Installed JSafe JCE provider: Version 6.21 Crypto-J 6.2.1, EMC Corporation. JsafeJCE Security Provider (implements RSA, DSA, ECDSA, Diffie-Hellman, ECDH, AES, DES, Triple DES, DESX, RC2, RC4, RC5, PBE, MD2, MD5, RIPEMD160, SHA1, SHA224, SHA256, SHA384, SHA512, HMAC-MD5, HMAC-RIPEMD160, HMAC-SHA1, HMAC-SHA224, HMAC-SHA256, HMAC-SHA384, HMAC-SHA512, HMACDRBG, HASHDRBG, CTRDRBG, FIPS186PRNG, SHA1PRNG, MD5PRNG; RFC 3394, RFC 5649 AES Key Wrap; X.509 CertificateFactory; PKCS12, PKCS15 KeyStore; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathValidators; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathBuilders; LDAP, Collection CertStores)
+Mar 1, 2021 14:06:09 PM Information [main] - Starting security...
+Mar 1, 2021 14:06:09 PM Information [main] - Starting scheduler...
+Mar 1, 2021 14:06:10 PM Information [main] - Starting WatchService...
+Mar 1, 2021 14:06:10 PM Information [main] - Starting sql...
+Mar 1, 2021 14:06:10 PM Information [main] - Starting runtime...
+Mar 1, 2021 14:06:10 PM Information [main] - Starting client...
+Mar 1, 2021 14:06:10 PM Information [main] - Starting archive...
+Mar 1, 2021 14:06:10 PM Information [main] - Starting CloudConfig...
+Mar 1, 2021 14:06:10 PM Information [main] - Starting VendorCredential...
+Mar 1, 2021 14:06:10 PM Information [main] - Starting rest...
+Mar 1, 2021 14:06:10 PM Information [main] - Starting registry...
+Mar 1, 2021 14:06:10 PM Information [main] - Package adminapi started...
+Mar 1, 2021 14:06:10 PM Information [main] - Package administrator started...
+Mar 1, 2021 14:06:10 PM Information [main] - redissessionstorage package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - debugger package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - zip package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - image package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - caching package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - cfmongodb package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - mail package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - spreadsheet package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - axis package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - chart package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - feed package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - print package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - search package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - document package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - presentation package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - eventgateways package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - dotnet package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - pmtagent package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - htmltopdf package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - awslambda package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - com package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - saml package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - awss3 package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - awss3legacy package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - azureblob package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - pdf package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - websocket package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - orm package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - ormsearch package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - ajax package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - derby package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - oracle package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - mysql package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - db2 package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - sybase package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - postgresql package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - sqlserver package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - odbc package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - scheduler package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - ftp package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - awssqs package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - awssns package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - azureservicebus package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - awsdynamodb package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - report package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - exchange package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - sharepoint package will not be deployed as it is not installed.
+Mar 1, 2021 14:06:10 PM Information [main] - ColdFusion started
+Mar 1, 2021 14:06:10 PM Information [main] - ColdFusion: application services are now available
+Mar 1, 2021 14:08:31 PM Information [http-nio-8500-exec-5] - Session rotated successfully.
+Mar 1, 2021 14:16:28 PM Error [http-nio-8500-exec-9] - The mysql package is not installed. You can install the package through the CLI package manager (/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/cfpm.sh) by running the command : install mysql.
+Mar 1, 2021 14:16:28 PM Error [http-nio-8500-exec-9] - The mysql package is not installed. You can install the package through the CLI package manager (/Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin/cfpm.sh) by running the command : install mysql.
+Mar 1, 2021 14:20:27 PM Error [http-nio-8500-exec-10] - Datasource cf-app could not be found.
+Mar 1, 2021 14:41:32 PM Information [Thread-10] - ColdFusion stopped
+Mar 1, 2021 14:41:45 PM Information [main] - Starting logging...
+Mar 1, 2021 14:41:45 PM Information [main] - Starting license...
+Mar 1, 2021 14:41:46 PM Information [main] - Developer Edition enabled
+Mar 1, 2021 14:41:46 PM Information [main] - Starting crypto...
+Mar 1, 2021 14:41:46 PM Information [main] - Installed JSafe JCE provider: Version 6.21 Crypto-J 6.2.1, EMC Corporation. JsafeJCE Security Provider (implements RSA, DSA, ECDSA, Diffie-Hellman, ECDH, AES, DES, Triple DES, DESX, RC2, RC4, RC5, PBE, MD2, MD5, RIPEMD160, SHA1, SHA224, SHA256, SHA384, SHA512, HMAC-MD5, HMAC-RIPEMD160, HMAC-SHA1, HMAC-SHA224, HMAC-SHA256, HMAC-SHA384, HMAC-SHA512, HMACDRBG, HASHDRBG, CTRDRBG, FIPS186PRNG, SHA1PRNG, MD5PRNG; RFC 3394, RFC 5649 AES Key Wrap; X.509 CertificateFactory; PKCS12, PKCS15 KeyStore; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathValidators; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathBuilders; LDAP, Collection CertStores)
+Mar 1, 2021 14:41:46 PM Information [main] - Starting security...
+Mar 1, 2021 14:41:46 PM Information [main] - Starting scheduler...
+Mar 1, 2021 14:41:47 PM Information [main] - Starting WatchService...
+Mar 1, 2021 14:41:47 PM Information [main] - Starting sql...
+Mar 1, 2021 14:41:47 PM Information [main] - Starting runtime...
+Mar 1, 2021 14:41:48 PM Information [main] - Starting client...
+Mar 1, 2021 14:41:48 PM Information [main] - Starting archive...
+Mar 1, 2021 14:41:48 PM Information [main] - Starting CloudConfig...
+Mar 1, 2021 14:41:48 PM Information [main] - Starting VendorCredential...
+Mar 1, 2021 14:41:48 PM Information [main] - Starting rest...
+Mar 1, 2021 14:41:48 PM Information [main] - Starting registry...
+Mar 1, 2021 14:41:48 PM Information [main] - Package adminapi started...
+Mar 1, 2021 14:41:48 PM Information [main] - Package administrator started...
+Mar 1, 2021 14:41:48 PM Information [main] - redissessionstorage package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - debugger package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - zip package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - image package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - caching package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - cfmongodb package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - mail package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - spreadsheet package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - axis package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - chart package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - feed package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - print package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - search package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - document package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - presentation package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - eventgateways package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - dotnet package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - pmtagent package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - htmltopdf package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - awslambda package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - com package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - saml package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - awss3 package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - awss3legacy package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - azureblob package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - pdf package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - websocket package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - orm package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - ormsearch package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - ajax package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - derby package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - oracle package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - mysql package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - db2 package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - sybase package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - postgresql package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - sqlserver package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - odbc package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - scheduler package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - ftp package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - awssqs package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - awssns package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - azureservicebus package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - awsdynamodb package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - report package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - exchange package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - sharepoint package will not be deployed as it is not installed.
+Mar 1, 2021 14:41:48 PM Information [main] - ColdFusion started
+Mar 1, 2021 14:41:48 PM Information [main] - ColdFusion: application services are now available
+Mar 1, 2021 14:42:10 PM Information [http-nio-8500-exec-3] - Session rotated successfully.
+Mar 1, 2021 15:05:23 PM Error [http-nio-8500-exec-2] - Invalid CFML construct found on line 13 at column 22.ColdFusion was looking at the following text:<p>\""</p><p>The CFML compiler was processing:<ul><li>An expression that began on line 13, column 14.<br>The expression might be missing an ending #, for example, #expr instead of #expr#.<li>The tag attribute var, on line 13, column 9.<li>A cfdump tag beginning on line 13, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 13
+Mar 1, 2021 15:05:24 PM Error [http-nio-8500-exec-4] - Invalid CFML construct found on line 13 at column 22.ColdFusion was looking at the following text:<p>\""</p><p>The CFML compiler was processing:<ul><li>An expression that began on line 13, column 14.<br>The expression might be missing an ending #, for example, #expr instead of #expr#.<li>The tag attribute var, on line 13, column 9.<li>A cfdump tag beginning on line 13, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 13
+Mar 1, 2021 15:32:45 PM Error [http-nio-8500-exec-7] - File not found: /test-coldfusion/restapi/test.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm''
+Mar 1, 2021 15:40:17 PM Error [http-nio-8500-exec-10] - File not found: /test-coldfusion/restapi/test.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm''
+Mar 1, 2021 15:45:03 PM Error [http-nio-8500-exec-2] - File not found: /test-coldfusion/restapi/test.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm''
+Mar 1, 2021 15:48:32 PM Error [http-nio-8500-exec-3] - Element TEST_ID is undefined in URL. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 10
+Mar 1, 2021 15:48:36 PM Error [http-nio-8500-exec-7] - Element TEST_ID is undefined in URL. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 10
+Mar 1, 2021 15:48:48 PM Information [scheduler-0] - Run Client Storage Purge
+Mar 1, 2021 15:50:20 PM Error [http-nio-8500-exec-6] - Element TEST_ID is undefined in URL. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 10
+Mar 1, 2021 15:52:25 PM Error [http-nio-8500-exec-8] - Complex object types cannot be converted to simple values.The expression has requested a variable or an intermediate expression result as a simple value. However, the result cannot be converted to a simple value. Simple values are strings, numbers, boolean values, and date/time values. Queries, arrays, and COM objects are examples of complex values. <p> The most likely cause of the error is that you tried to use a complex value as a simple one. For example, you tried to use a query variable in a cfif tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 10
+Mar 1, 2021 15:53:53 PM Error [http-nio-8500-exec-5] - Element TEST_ID is undefined in URL. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 10
+Mar 1, 2021 15:54:14 PM Error [http-nio-8500-exec-9] - Variable TEST_NAME is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 13
+Mar 1, 2021 15:54:56 PM Error [http-nio-8500-exec-10] - Element TEST_ID is undefined in URL. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 10
+Mar 1, 2021 15:55:04 PM Error [http-nio-8500-exec-2] - File not found: /test-coldfusion/restapi/test.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm''
+Mar 1, 2021 15:55:42 PM Error [http-nio-8500-exec-3] - File not found: /test-coldfusion/restapi/test.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm''
+Mar 1, 2021 15:55:48 PM Error [http-nio-8500-exec-7] - Element TEST_ID is undefined in URL. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 10
+Mar 1, 2021 15:55:52 PM Error [http-nio-8500-exec-6] - File not found: /test-coldfusion/restapi/test.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm''
+Mar 1, 2021 15:58:02 PM Error [http-nio-8500-exec-5] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 8
+Mar 1, 2021 15:58:14 PM Error [http-nio-8500-exec-9] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 28
+Mar 1, 2021 15:58:15 PM Error [http-nio-8500-exec-10] - File not found: /test-coldfusion/restapi/test.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm''
+Mar 1, 2021 15:58:17 PM Error [http-nio-8500-exec-1] - File not found: /test-coldfusion/restapi/test.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm''
+Mar 1, 2021 15:58:32 PM Error [http-nio-8500-exec-2] - File not found: /test-coldfusion/restapi/test.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm''
+Mar 1, 2021 15:58:34 PM Error [http-nio-8500-exec-4] - File not found: /test-coldfusion/restapi/test.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm''
+Mar 1, 2021 15:58:34 PM Error [http-nio-8500-exec-3] - File not found: /test-coldfusion/restapi/test.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm''
+Mar 1, 2021 15:58:40 PM Error [http-nio-8500-exec-6] - Invalid CFML construct found on line 28 at column 6.ColdFusion was looking at the following text:<p>/&gt;</p><p>The CFML compiler was processing:<ul><li>A cfif tag beginning on line 28, column 2.<li>A cfif tag beginning on line 28, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 28
+Mar 1, 2021 16:00:45 PM Error [http-nio-8500-exec-9] - Element TEST_ID is undefined in URL. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 12
+Mar 1, 2021 16:01:11 PM Error [http-nio-8500-exec-1] - File not found: /test-coldfusion/restapi/test.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm''
+Mar 1, 2021 16:01:15 PM Error [http-nio-8500-exec-2] - File not found: /test-coldfusion/restapi/test.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm''
+Mar 1, 2021 16:03:55 PM Error [http-nio-8500-exec-10] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:08:36 PM Error [http-nio-8500-exec-6] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:08:39 PM Error [http-nio-8500-exec-8] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:08:45 PM Error [http-nio-8500-exec-5] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:08:49 PM Error [http-nio-8500-exec-10] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:09:45 PM Error [http-nio-8500-exec-1] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:09:47 PM Error [http-nio-8500-exec-2] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:09:48 PM Error [http-nio-8500-exec-4] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:10:01 PM Error [http-nio-8500-exec-3] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:10:03 PM Error [http-nio-8500-exec-7] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:10:06 PM Error [http-nio-8500-exec-8] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:10:29 PM Error [http-nio-8500-exec-5] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:10:29 PM Error [http-nio-8500-exec-9] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:10:32 PM Error [http-nio-8500-exec-1] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:11:49 PM Error [http-nio-8500-exec-8] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:12:26 PM Error [http-nio-8500-exec-9] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:12:27 PM Error [http-nio-8500-exec-10] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:12:32 PM Error [http-nio-8500-exec-3] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:12:49 PM Error [http-nio-8500-exec-6] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:12:53 PM Error [http-nio-8500-exec-1] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:12:55 PM Error [http-nio-8500-exec-2] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:12:58 PM Error [http-nio-8500-exec-4] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:13:42 PM Error [http-nio-8500-exec-5] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:13:59 PM Error [http-nio-8500-exec-9] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:14:03 PM Error [http-nio-8500-exec-7] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:14:14 PM Error [http-nio-8500-exec-3] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:15:10 PM Error [http-nio-8500-exec-6] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:15:12 PM Error [http-nio-8500-exec-8] - Attribute validation error for tag cfoutput.The value of the attribute query, which is currently singleTest, is invalid. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/test.cfm, line: 8
+Mar 1, 2021 16:24:16 PM Error [http-nio-8500-exec-5] - Context validation error for the cfelse tag.The tag must be nested inside a CFIF tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 21
+Mar 1, 2021 16:24:18 PM Error [http-nio-8500-exec-10] - Context validation error for the cfelse tag.The tag must be nested inside a CFIF tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 21
+Mar 1, 2021 16:38:06 PM Error [http-nio-8500-exec-7] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 8
+Mar 1, 2021 16:39:00 PM Error [http-nio-8500-exec-3] - Variable TESTID is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 28
+Mar 1, 2021 16:40:55 PM Information [Thread-10] - ColdFusion stopped
+Mar 1, 2021 16:41:08 PM Information [main] - Starting logging...
+Mar 1, 2021 16:41:08 PM Information [main] - Starting license...
+Mar 1, 2021 16:41:09 PM Information [main] - Developer Edition enabled
+Mar 1, 2021 16:41:10 PM Information [main] - Starting crypto...
+Mar 1, 2021 16:41:10 PM Information [main] - Installed JSafe JCE provider: Version 6.21 Crypto-J 6.2.1, EMC Corporation. JsafeJCE Security Provider (implements RSA, DSA, ECDSA, Diffie-Hellman, ECDH, AES, DES, Triple DES, DESX, RC2, RC4, RC5, PBE, MD2, MD5, RIPEMD160, SHA1, SHA224, SHA256, SHA384, SHA512, HMAC-MD5, HMAC-RIPEMD160, HMAC-SHA1, HMAC-SHA224, HMAC-SHA256, HMAC-SHA384, HMAC-SHA512, HMACDRBG, HASHDRBG, CTRDRBG, FIPS186PRNG, SHA1PRNG, MD5PRNG; RFC 3394, RFC 5649 AES Key Wrap; X.509 CertificateFactory; PKCS12, PKCS15 KeyStore; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathValidators; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathBuilders; LDAP, Collection CertStores)
+Mar 1, 2021 16:41:10 PM Information [main] - Starting security...
+Mar 1, 2021 16:41:10 PM Information [main] - Starting scheduler...
+Mar 1, 2021 16:41:11 PM Information [main] - Starting WatchService...
+Mar 1, 2021 16:41:11 PM Information [main] - Starting sql...
+Mar 1, 2021 16:41:11 PM Information [main] - Starting runtime...
+Mar 1, 2021 16:41:12 PM Information [main] - Starting client...
+Mar 1, 2021 16:41:12 PM Information [main] - Starting archive...
+Mar 1, 2021 16:41:12 PM Information [main] - Starting CloudConfig...
+Mar 1, 2021 16:41:12 PM Information [main] - Starting VendorCredential...
+Mar 1, 2021 16:41:12 PM Information [main] - Starting rest...
+Mar 1, 2021 16:41:12 PM Information [main] - Starting registry...
+Mar 1, 2021 16:41:12 PM Information [main] - Package adminapi started...
+Mar 1, 2021 16:41:12 PM Information [main] - Package administrator started...
+Mar 1, 2021 16:41:12 PM Information [main] - redissessionstorage package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - debugger package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - zip package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - image package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - caching package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - cfmongodb package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - mail package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - spreadsheet package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - axis package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - chart package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - feed package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - print package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - search package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - document package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - presentation package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - eventgateways package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - dotnet package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - pmtagent package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - htmltopdf package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - awslambda package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - com package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - saml package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - awss3 package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - awss3legacy package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - azureblob package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - pdf package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - websocket package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - orm package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - ormsearch package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - ajax package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - derby package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - oracle package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - mysql package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - db2 package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - sybase package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - postgresql package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - sqlserver package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - odbc package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - scheduler package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - ftp package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - awssqs package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - awssns package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - azureservicebus package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - awsdynamodb package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - report package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - exchange package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - sharepoint package will not be deployed as it is not installed.
+Mar 1, 2021 16:41:12 PM Information [main] - ColdFusion started
+Mar 1, 2021 16:41:12 PM Information [main] - ColdFusion: application services are now available
+Mar 1, 2021 16:43:31 PM Error [http-nio-8500-exec-7] - Variable TEST_NAME is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 16
+Mar 1, 2021 16:43:47 PM Error [http-nio-8500-exec-8] - Variable TEST_CONTENT is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 17
+Mar 1, 2021 16:47:25 PM Error [http-nio-8500-exec-5] - Attribute validation error for tag CFOUTPUT.It does not allow the attribute(s) STYLE. The valid attribute(s) are ENCODEFOR,GROUP,GROUPCASESENSITIVE,MAXROWS,QUERY,STARTROW. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 133
+Mar 1, 2021 17:12:00 PM Error [http-nio-8500-exec-7] - Invalid CFML construct found on line 1 at column 8.ColdFusion was looking at the following text:<p>=</p><p>The CFML compiler was processing:<ul><li>A cfdump tag beginning on line 1, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/actionpage.cfm, line: 1
+Mar 1, 2021 17:13:06 PM Error [http-nio-8500-exec-8] - Invalid CFML construct found on line 1 at column 8.ColdFusion was looking at the following text:<p>=</p><p>The CFML compiler was processing:<ul><li>A cfdump tag beginning on line 1, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/actionpage.cfm, line: 1
+Mar 1, 2021 17:48:12 PM Information [scheduler-0] - Run Client Storage Purge
+Mar 1, 2021 17:55:51 PM Error [http-nio-8500-exec-5] - A CFML variable name cannot end with a &quot;.&quot; character.The variable form. ends with a &quot;.&quot; character.  You must either provide an additional structure key or delete the &quot;.&quot; character.<p>The CFML compiler was processing:<ul><li>The body of a cfquery tag beginning on line 15, column 2.<li>The body of a cfquery tag beginning on line 15, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 19
+Mar 1, 2021 18:02:16 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 20
+Mar 1, 2021 18:02:18 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 20
+Mar 1, 2021 18:02:52 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 20
+Mar 1, 2021 18:02:56 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 20
+Mar 1, 2021 18:02:57 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 20
+Mar 1, 2021 18:02:58 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 20
+Mar 1, 2021 18:03:17 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 20
+Mar 1, 2021 18:13:06 PM Error [http-nio-8500-exec-1] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 8
+Mar 1, 2021 18:13:11 PM Error [http-nio-8500-exec-3] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 8
+Mar 1, 2021 18:13:46 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 35
+Mar 1, 2021 18:18:57 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 40
+Mar 1, 2021 18:19:08 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 40
+Mar 1, 2021 18:19:46 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 43
+Mar 1, 2021 18:19:48 PM Error [http-nio-8500-exec-6] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 43
+Mar 1, 2021 18:21:27 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 41
+Mar 1, 2021 18:22:23 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 41
+Mar 1, 2021 18:22:34 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 41
+Mar 1, 2021 18:24:38 PM Error [http-nio-8500-exec-9] - Variable ARRRAYISEMPTY is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 42
+Mar 1, 2021 18:25:40 PM Error [http-nio-8500-exec-4] - Variable ARRRAYISEMPTY is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 18:28:57 PM Error [http-nio-8500-exec-5] - Error Executing Database Query.Field 'idUserTests' doesn't have a default value The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 5
+Mar 1, 2021 18:30:55 PM Error [http-nio-8500-exec-6] - Error Executing Database Query.Field 'idUserTests' doesn't have a default value The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 5
+Mar 1, 2021 18:30:57 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 5
+Mar 1, 2021 18:31:00 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 5
+Mar 1, 2021 18:31:32 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 154
+Mar 1, 2021 18:31:37 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 154
+Mar 1, 2021 18:32:37 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 5
+Mar 1, 2021 18:35:20 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:35:22 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:35:24 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:35:24 PM Error [http-nio-8500-exec-6] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:35:28 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:35:30 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:35:30 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:36:15 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:36:17 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:36:22 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:39:23 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:39:26 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:39:32 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:39:52 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM_USER. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:40:45 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM_USER. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:41:04 PM Error [http-nio-8500-exec-6] - Element FIRSTNAME is undefined in FORM_USER. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 204
+Mar 1, 2021 18:41:06 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM_USER. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 204
+Mar 1, 2021 18:41:16 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM_USER. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 204
+Mar 1, 2021 18:41:39 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM_USER. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 6
+Mar 1, 2021 18:42:59 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM_USER. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 21
+Mar 1, 2021 18:43:03 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM_USER. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 21
+Mar 1, 2021 18:43:07 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM_USER. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 21
+Mar 1, 2021 18:43:09 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM_USER. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 21
+Mar 1, 2021 18:44:08 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM_USER. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 21
+Mar 1, 2021 18:44:08 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM_USER. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 21
+Mar 1, 2021 18:45:56 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 21
+Mar 1, 2021 18:46:55 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 21
+Mar 1, 2021 18:47:00 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 21
+Mar 1, 2021 18:47:01 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 21
+Mar 1, 2021 18:52:40 PM Error [http-nio-8500-exec-6] - Invalid CFML construct found on line 17 at column 1.ColdFusion was looking at the following text:<p>&lt;/</p><p>The CFML compiler was processing:<ul><li>A cfif tag beginning on line 15, column 2.<li>A cfif tag beginning on line 15, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 17
+Mar 1, 2021 18:52:40 PM Error [http-nio-8500-exec-9] - Invalid CFML construct found on line 17 at column 1.ColdFusion was looking at the following text:<p>&lt;/</p><p>The CFML compiler was processing:<ul><li>A cfif tag beginning on line 15, column 2.<li>A cfif tag beginning on line 15, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 17
+Mar 1, 2021 18:52:41 PM Error [http-nio-8500-exec-7] - Invalid CFML construct found on line 17 at column 1.ColdFusion was looking at the following text:<p>&lt;/</p><p>The CFML compiler was processing:<ul><li>A cfif tag beginning on line 15, column 2.<li>A cfif tag beginning on line 15, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 17
+Mar 1, 2021 18:52:41 PM Error [http-nio-8500-exec-8] - Invalid CFML construct found on line 17 at column 1.ColdFusion was looking at the following text:<p>&lt;/</p><p>The CFML compiler was processing:<ul><li>A cfif tag beginning on line 15, column 2.<li>A cfif tag beginning on line 15, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 17
+Mar 1, 2021 18:53:55 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 18:55:12 PM Information [scheduler-1] - Run Client Storage Purge
+Mar 1, 2021 18:56:35 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 18:56:36 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 18:58:57 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 18:58:58 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 18:58:58 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 18:59:46 PM Error [http-nio-8500-exec-6] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:05:06 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:05:23 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:05:35 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:05:38 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:05:53 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:05:54 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:05:54 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:05:54 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:05:55 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:06:36 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:06:36 PM Error [http-nio-8500-exec-6] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:06:37 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:06:37 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:06:37 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:06:41 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:06:43 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:06:44 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:06:52 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:07:06 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:07:11 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:07:13 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:09:11 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:09:51 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:09:56 PM Error [http-nio-8500-exec-6] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:09:59 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:10:02 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:10:04 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:10:05 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:10:40 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:10:59 PM Error [http-nio-8500-exec-1] - Variable FIRSTNAME is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:11:00 PM Error [http-nio-8500-exec-3] - Variable FIRSTNAME is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:11:27 PM Error [http-nio-8500-exec-4] - Element IRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:11:33 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:11:42 PM Error [http-nio-8500-exec-6] - Element FIRST_NAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:14:46 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:14:47 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:16:13 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:16:56 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:16:57 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:16:58 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:17:13 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:17:19 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:19:03 PM Error [http-nio-8500-exec-6] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:19:04 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:19:04 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:19:04 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 1, 2021 19:19:37 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 164
+Mar 1, 2021 19:19:49 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 165
+Mar 1, 2021 19:19:52 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 165
+Mar 1, 2021 19:21:20 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 165
+Mar 1, 2021 19:21:21 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 165
+Mar 1, 2021 19:21:21 PM Error [http-nio-8500-exec-6] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 165
+Mar 1, 2021 19:21:22 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 165
+Mar 1, 2021 19:21:25 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 165
+Mar 1, 2021 19:21:41 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 165
+Mar 1, 2021 19:21:46 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 165
+Mar 1, 2021 19:22:48 PM Error [http-nio-8500-exec-6] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 165
+Mar 1, 2021 19:22:53 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 165
+Mar 1, 2021 19:26:35 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 165
+Mar 1, 2021 19:26:38 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 165
+Mar 1, 2021 19:27:55 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 39
+Mar 1, 2021 19:28:59 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 39
+Mar 1, 2021 19:29:00 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 39
+Mar 1, 2021 19:29:00 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 39
+Mar 1, 2021 19:29:00 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 39
+Mar 1, 2021 19:30:25 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 39
+Mar 1, 2021 19:30:26 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 39
+Mar 1, 2021 19:30:27 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 39
+Mar 1, 2021 19:33:03 PM Error [http-nio-8500-exec-6] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 38
+Mar 1, 2021 19:33:10 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 38
+Mar 1, 2021 19:33:15 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 38
+Mar 1, 2021 19:33:28 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 38
+Mar 1, 2021 19:33:55 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:33:56 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:33:59 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:34:23 PM Error [http-nio-8500-exec-7] - Element FIRST_NAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:34:27 PM Error [http-nio-8500-exec-10] - Element FIRST_NAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:35:08 PM Error [http-nio-8500-exec-3] - Element FIRST_NAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:35:18 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:35:42 PM Error [http-nio-8500-exec-5] - Element FIRST_NAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:36:06 PM Error [http-nio-8500-exec-6] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:36:06 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:36:07 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:36:07 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:36:19 PM Information [Thread-10] - ColdFusion stopped
+Mar 1, 2021 19:36:31 PM Information [main] - Starting logging...
+Mar 1, 2021 19:36:31 PM Information [main] - Starting license...
+Mar 1, 2021 19:36:32 PM Information [main] - Developer Edition enabled
+Mar 1, 2021 19:36:32 PM Information [main] - Starting crypto...
+Mar 1, 2021 19:36:33 PM Information [main] - Installed JSafe JCE provider: Version 6.21 Crypto-J 6.2.1, EMC Corporation. JsafeJCE Security Provider (implements RSA, DSA, ECDSA, Diffie-Hellman, ECDH, AES, DES, Triple DES, DESX, RC2, RC4, RC5, PBE, MD2, MD5, RIPEMD160, SHA1, SHA224, SHA256, SHA384, SHA512, HMAC-MD5, HMAC-RIPEMD160, HMAC-SHA1, HMAC-SHA224, HMAC-SHA256, HMAC-SHA384, HMAC-SHA512, HMACDRBG, HASHDRBG, CTRDRBG, FIPS186PRNG, SHA1PRNG, MD5PRNG; RFC 3394, RFC 5649 AES Key Wrap; X.509 CertificateFactory; PKCS12, PKCS15 KeyStore; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathValidators; X.509V1, PKIX, PKIX-SuiteB, PKIX-SuiteBTLS CertPathBuilders; LDAP, Collection CertStores)
+Mar 1, 2021 19:36:33 PM Information [main] - Starting security...
+Mar 1, 2021 19:36:33 PM Information [main] - Starting scheduler...
+Mar 1, 2021 19:36:33 PM Information [main] - Starting WatchService...
+Mar 1, 2021 19:36:33 PM Information [main] - Starting sql...
+Mar 1, 2021 19:36:33 PM Information [main] - Starting runtime...
+Mar 1, 2021 19:36:34 PM Information [main] - Starting client...
+Mar 1, 2021 19:36:34 PM Information [main] - Starting archive...
+Mar 1, 2021 19:36:34 PM Information [main] - Starting CloudConfig...
+Mar 1, 2021 19:36:34 PM Information [main] - Starting VendorCredential...
+Mar 1, 2021 19:36:34 PM Information [main] - Starting rest...
+Mar 1, 2021 19:36:34 PM Information [main] - Starting registry...
+Mar 1, 2021 19:36:34 PM Information [main] - Package adminapi started...
+Mar 1, 2021 19:36:34 PM Information [main] - Package administrator started...
+Mar 1, 2021 19:36:34 PM Information [main] - redissessionstorage package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - debugger package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - zip package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - image package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - caching package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - cfmongodb package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - mail package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - spreadsheet package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - axis package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - chart package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - feed package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - print package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - search package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - document package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - presentation package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - eventgateways package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - dotnet package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - pmtagent package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - htmltopdf package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - awslambda package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - com package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - saml package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - awss3 package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - awss3legacy package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - azureblob package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - pdf package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - websocket package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - orm package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - ormsearch package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - ajax package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - derby package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - oracle package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - mysql package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - db2 package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - sybase package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - postgresql package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - sqlserver package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - odbc package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - scheduler package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - ftp package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - awssqs package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - awssns package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - azureservicebus package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - awsdynamodb package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - report package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - exchange package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - sharepoint package will not be deployed as it is not installed.
+Mar 1, 2021 19:36:34 PM Information [main] - ColdFusion started
+Mar 1, 2021 19:36:34 PM Information [main] - ColdFusion: application services are now available
+Mar 1, 2021 19:36:48 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:41:22 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:41:26 PM Error [http-nio-8500-exec-6] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:41:42 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:42:17 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:42:48 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 3
+Mar 1, 2021 19:42:49 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 3
+Mar 1, 2021 19:43:14 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 37
+Mar 1, 2021 19:45:24 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 39
+Mar 1, 2021 19:48:20 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 40
+Mar 1, 2021 19:48:52 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 39
+Mar 1, 2021 20:08:10 PM Error [http-nio-8500-exec-8] - File not found: /about.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/about.cfm''
+Mar 1, 2021 20:09:33 PM Error [http-nio-8500-exec-4] - File not found: /about.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/about.cfm''
+Mar 1, 2021 20:09:36 PM Error [http-nio-8500-exec-5] - File not found: /products.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/products.cfm''
+Mar 1, 2021 20:12:41 PM Error [http-nio-8500-exec-9] - File not found: /create.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/create.cfm''
+Mar 1, 2021 20:12:43 PM Error [http-nio-8500-exec-10] - File not found: /create.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/create.cfm''
+Mar 1, 2021 20:13:23 PM Error [http-nio-8500-exec-3] - File not found: /create.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/create.cfm''
+Mar 1, 2021 20:14:29 PM Error [http-nio-8500-exec-9] - File not found: /completed.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/completed.cfm''
+Mar 1, 2021 20:14:37 PM Error [http-nio-8500-exec-4] - File not found: /completed.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/completed.cfm''
+Mar 1, 2021 20:14:38 PM Error [http-nio-8500-exec-5] - File not found: /completed.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/completed.cfm''
+Mar 1, 2021 20:14:39 PM Error [http-nio-8500-exec-6] - File not found: /create.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/create.cfm''
+Mar 1, 2021 20:14:49 PM Error [http-nio-8500-exec-2] - File not found: /completed.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/completed.cfm''
+Mar 1, 2021 20:18:58 PM Error [http-nio-8500-exec-2] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>.<p>The CFML compiler was processing:<ul><li>The body of a cfoutput tag beginning on line 51, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 38
+Mar 1, 2021 20:19:02 PM Error [http-nio-8500-exec-3] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>.<p>The CFML compiler was processing:<ul><li>The body of a cfoutput tag beginning on line 51, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 38
+Mar 1, 2021 20:19:19 PM Error [http-nio-8500-exec-4] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>.<p>The CFML compiler was processing:<ul><li>The body of a cfoutput tag beginning on line 51, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 38
+Mar 1, 2021 20:19:20 PM Error [http-nio-8500-exec-5] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>.<p>The CFML compiler was processing:<ul><li>The body of a cfoutput tag beginning on line 51, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 38
+Mar 1, 2021 20:19:26 PM Error [http-nio-8500-exec-6] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>.<p>The CFML compiler was processing:<ul><li>The body of a cfoutput tag beginning on line 51, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 38
+Mar 1, 2021 20:19:27 PM Error [http-nio-8500-exec-7] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>.<p>The CFML compiler was processing:<ul><li>The body of a cfoutput tag beginning on line 51, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 38
+Mar 1, 2021 20:19:33 PM Error [http-nio-8500-exec-10] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>.<p>The CFML compiler was processing:<ul><li>The body of a cfoutput tag beginning on line 51, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 38
+Mar 1, 2021 20:20:02 PM Error [http-nio-8500-exec-1] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>.<p>The CFML compiler was processing:<ul><li>The body of a cfoutput tag beginning on line 51, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 38
+Mar 1, 2021 20:20:05 PM Error [http-nio-8500-exec-4] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>.<p>The CFML compiler was processing:<ul><li>The body of a cfoutput tag beginning on line 51, column 2.</ul> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 38
+Mar 1, 2021 20:21:12 PM Error [http-nio-8500-exec-3] - Error Executing Database Query.Unknown column 'testtype' in 'field list' The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 27
+Mar 1, 2021 20:36:38 PM Error [http-nio-8500-exec-2] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 34
+Mar 1, 2021 20:38:06 PM Error [http-nio-8500-exec-3] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:38:11 PM Error [http-nio-8500-exec-8] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:39:55 PM Error [http-nio-8500-exec-9] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:39:57 PM Error [http-nio-8500-exec-10] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:39:57 PM Error [http-nio-8500-exec-2] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:39:57 PM Error [http-nio-8500-exec-4] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:39:58 PM Error [http-nio-8500-exec-6] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:39:58 PM Error [http-nio-8500-exec-8] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:40:01 PM Error [http-nio-8500-exec-2] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:40:04 PM Error [http-nio-8500-exec-5] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:40:39 PM Error [http-nio-8500-exec-6] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:40:40 PM Error [http-nio-8500-exec-7] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:40:40 PM Error [http-nio-8500-exec-9] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:40:43 PM Error [http-nio-8500-exec-2] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:40:46 PM Error [http-nio-8500-exec-4] - Context validation error for the cfoutput tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfoutput>.  If the body of the tag is empty, you can use the shortcut <cfoutput .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 38
+Mar 1, 2021 20:41:17 PM Error [http-nio-8500-exec-5] - Element recordCound is undefined in ALLTESTS. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 20
+Mar 1, 2021 20:41:19 PM Error [http-nio-8500-exec-6] - Element recordCound is undefined in ALLTESTS. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 20
+Mar 1, 2021 20:41:23 PM Error [http-nio-8500-exec-2] - Element recordCound is undefined in ALLTESTS. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 20
+Mar 1, 2021 20:41:39 PM Error [http-nio-8500-exec-3] - Variable LAST_NAME is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 28
+Mar 1, 2021 20:41:41 PM Error [http-nio-8500-exec-4] - Variable LAST_NAME is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 28
+Mar 1, 2021 20:41:43 PM Error [http-nio-8500-exec-6] - Variable LAST_NAME is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 28
+Mar 1, 2021 20:41:43 PM Error [http-nio-8500-exec-7] - Variable LAST_NAME is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 28
+Mar 1, 2021 20:43:34 PM Information [scheduler-0] - Run Client Storage Purge
+Mar 1, 2021 21:50:34 PM Information [scheduler-4] - Run Client Storage Purge
+Mar 1, 2021 22:57:34 PM Information [scheduler-0] - Run Client Storage Purge
+Mar 2, 2021 00:45:54 AM Information [scheduler-2] - Run Client Storage Purge
+Mar 2, 2021 02:10:18 AM Information [scheduler-0] - Run Client Storage Purge
+Mar 2, 2021 03:18:28 AM Information [scheduler-2] - Run Client Storage Purge
+Mar 2, 2021 04:26:39 AM Information [scheduler-2] - Run Client Storage Purge
+Mar 2, 2021 05:34:50 AM Information [scheduler-3] - Run Client Storage Purge
+Mar 2, 2021 06:43:02 AM Information [scheduler-0] - Run Client Storage Purge
+Mar 2, 2021 07:51:12 AM Information [scheduler-4] - Run Client Storage Purge
+Mar 2, 2021 08:59:23 AM Information [scheduler-4] - Run Client Storage Purge
+Mar 2, 2021 10:07:33 AM Information [scheduler-4] - Run Client Storage Purge
+Mar 2, 2021 11:15:44 AM Information [scheduler-3] - Run Client Storage Purge
+Mar 2, 2021 12:23:54 PM Information [scheduler-4] - Run Client Storage Purge
+Mar 2, 2021 13:36:40 PM Information [scheduler-3] - Run Client Storage Purge
+Mar 2, 2021 14:26:14 PM Error [http-nio-8500-exec-5] - Element IDUSERTESTS is undefined in DELETETEST. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:26:42 PM Error [http-nio-8500-exec-6] - Element RECORDCOUNT is undefined in ALLTESTS. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 45
+Mar 2, 2021 14:33:13 PM Error [http-nio-8500-exec-7] - Element RECORDCOUNT is undefined in ALLTESTS. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 45
+Mar 2, 2021 14:33:57 PM Error [http-nio-8500-exec-8] - Element RECORDCOUNT is undefined in ALLTESTS. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 45
+Mar 2, 2021 14:34:02 PM Error [http-nio-8500-exec-2] - Error Executing Database Query.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:34:22 PM Error [http-nio-8500-exec-3] - Error Executing Database Query.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:34:52 PM Error [http-nio-8500-exec-4] - Error Executing Database Query.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:34:53 PM Error [http-nio-8500-exec-5] - Error Executing Database Query.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:35:31 PM Error [http-nio-8500-exec-8] - Error Executing Database Query.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:35:40 PM Error [http-nio-8500-exec-9] - Element IDUSERTESTS is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:36:16 PM Error [http-nio-8500-exec-10] - Element IDUSERTESTS is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:36:19 PM Error [http-nio-8500-exec-1] - Element IDUSERTESTS is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:37:14 PM Error [http-nio-8500-exec-2] - Element IDUSERTESTS is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:37:16 PM Error [http-nio-8500-exec-3] - Element IDUSERTESTS is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:37:25 PM Error [http-nio-8500-exec-5] - Element IDUSERTESTS is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:37:26 PM Error [http-nio-8500-exec-6] - Element IDUSERTESTS is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:39:16 PM Error [http-nio-8500-exec-9] - Element IDUSERTESTS is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:39:30 PM Error [http-nio-8500-exec-10] - Element IDUSERTESTS is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:39:32 PM Error [http-nio-8500-exec-1] - Element IDUSERTESTS is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:39:46 PM Error [http-nio-8500-exec-2] - Error Executing Database Query.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:40:29 PM Error [http-nio-8500-exec-3] - Error Executing Database Query.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:41:06 PM Error [http-nio-8500-exec-6] - Error Executing Database Query.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* FROM UserTests  WHERE idUserTests =' at line 1 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 14:42:15 PM Error [http-nio-8500-exec-5] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 66
+Mar 2, 2021 14:42:54 PM Error [http-nio-8500-exec-9] - File not found: /test-coldfusion/restapi/delete_action.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm''
+Mar 2, 2021 14:43:04 PM Error [http-nio-8500-exec-10] - File not found: /test-coldfusion/restapi/delete_action.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm''
+Mar 2, 2021 14:43:06 PM Error [http-nio-8500-exec-1] - File not found: /test-coldfusion/restapi/delete_action.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm''
+Mar 2, 2021 14:43:09 PM Error [http-nio-8500-exec-3] - File not found: /test-coldfusion/restapi/delete_action.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm''
+Mar 2, 2021 14:43:21 PM Error [http-nio-8500-exec-4] - File not found: /test-coldfusion/restapi/delete_action.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm''
+Mar 2, 2021 14:43:22 PM Error [http-nio-8500-exec-6] - File not found: /test-coldfusion/restapi/delete_action.cfm The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm''
+Mar 2, 2021 14:43:40 PM Information [scheduler-1] - Run Client Storage Purge
+Mar 2, 2021 14:44:33 PM Error [http-nio-8500-exec-8] - Error Executing Database Query.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 2 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 42
+Mar 2, 2021 15:22:58 PM Error [http-nio-8500-exec-7] - Context validation error for tag cfinput.The tag must be nested inside a cfform tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 59
+Mar 2, 2021 15:23:26 PM Error [http-nio-8500-exec-9] - Element IDUSERTESTS is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 7
+Mar 2, 2021 15:24:51 PM Error [http-nio-8500-exec-1] - Element IDUSERTESTS is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 7
+Mar 2, 2021 15:25:00 PM Error [http-nio-8500-exec-2] - Variable IDUSERTESTS is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 7
+Mar 2, 2021 15:25:14 PM Error [http-nio-8500-exec-3] - Variable IDUSERTESTS is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 7
+Mar 2, 2021 15:25:16 PM Error [http-nio-8500-exec-4] - Variable IDUSERTESTS is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 7
+Mar 2, 2021 15:25:20 PM Error [http-nio-8500-exec-7] - Variable IDUSERTESTS is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 7
+Mar 2, 2021 15:27:04 PM Error [http-nio-8500-exec-8] - Error Executing Database Query.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DELETE</button>' at line 4 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 61
+Mar 2, 2021 15:27:06 PM Error [http-nio-8500-exec-9] - Error Executing Database Query.You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'DELETE</button>' at line 4 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/completed.cfm, line: 61
+Mar 2, 2021 15:34:37 PM Error [http-nio-8500-exec-7] - Variable IDUSERTESTS is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 7
+Mar 2, 2021 15:37:40 PM Error [http-nio-8500-exec-1] - Element IDUSERTESTS is undefined in ALLTESTS. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 8
+Mar 2, 2021 15:37:53 PM Error [http-nio-8500-exec-2] - Variable IDUSERTESTS is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 8
+Mar 2, 2021 15:37:57 PM Error [http-nio-8500-exec-5] - Variable IDUSERTESTS is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 8
+Mar 2, 2021 15:38:22 PM Error [http-nio-8500-exec-6] - Element IDUSERTESTS is undefined in URL. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 8
+Mar 2, 2021 15:38:26 PM Error [http-nio-8500-exec-7] - Element IDUSERTESTS is undefined in URL. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 8
+Mar 2, 2021 15:40:37 PM Error [http-nio-8500-exec-8] - Element IDUSERTESTS is undefined in URL. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 8
+Mar 2, 2021 15:40:40 PM Error [http-nio-8500-exec-1] - Element IDUSERTESTS is undefined in URL. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/delete_action.cfm, line: 8
+Mar 2, 2021 15:50:40 PM Information [scheduler-3] - Run Client Storage Purge
+Mar 2, 2021 16:07:23 PM Error [http-nio-8500-exec-2] - Context validation error for tag cfoutput.Either the end tag </cfoutput> encountered on line 122 at column 3 requires a matching start tag or tag cfoutput does not support end tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 122
+Mar 2, 2021 16:07:37 PM Error [http-nio-8500-exec-3] - Context validation error for tag cfoutput.Either the end tag </cfoutput> encountered on line 122 at column 3 requires a matching start tag or tag cfoutput does not support end tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 122
+Mar 2, 2021 16:07:44 PM Error [http-nio-8500-exec-4] - Context validation error for tag cfif.Either the end tag </cfif> encountered on line 126 at column 3 requires a matching start tag or tag cfif does not support end tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 126
+Mar 2, 2021 16:16:28 PM Error [http-nio-8500-exec-2] - Invalid CFML construct found on line 5 at column 29.ColdFusion was looking at the following text:<p>#</p> The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 5
+Mar 2, 2021 16:16:43 PM Error [http-nio-8500-exec-3] - Element IDUSERTESTS is undefined in URL. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 5
+Mar 2, 2021 16:23:08 PM Error [http-nio-8500-exec-3] - Attribute validation error for CFSELECT.The value of the QUERY attribute is invalid. The 'Query' or 'Bind' attribute must be defined if the 'Value', 'Display', or 'Group' attributes are defined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm''
+Mar 2, 2021 16:24:44 PM Error [http-nio-8500-exec-8] - Attribute validation error.A duplicate attribute VALUE has been encountered. Attributes with the same name cannot be provided more than once. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 86
+Mar 2, 2021 16:25:06 PM Error [http-nio-8500-exec-10] - Attribute validation error.A duplicate attribute VALUE has been encountered. Attributes with the same name cannot be provided more than once. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 90
+Mar 2, 2021 16:33:39 PM Error [http-nio-8500-exec-5] - Variable AERRORMESSAGE is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 9
+Mar 2, 2021 16:33:46 PM Error [http-nio-8500-exec-6] - Variable AERRORMESSAGE is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 9
+Mar 2, 2021 16:33:57 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 12
+Mar 2, 2021 16:34:13 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 12
+Mar 2, 2021 16:35:03 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 12
+Mar 2, 2021 16:35:03 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 12
+Mar 2, 2021 16:35:55 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 12
+Mar 2, 2021 16:38:42 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 12
+Mar 2, 2021 16:39:35 PM Error [http-nio-8500-exec-3] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:39:38 PM Error [http-nio-8500-exec-4] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:39:43 PM Error [http-nio-8500-exec-8] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:40:02 PM Error [http-nio-8500-exec-9] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:40:11 PM Error [http-nio-8500-exec-10] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:40:12 PM Error [http-nio-8500-exec-1] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:40:14 PM Error [http-nio-8500-exec-2] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:40:14 PM Error [http-nio-8500-exec-3] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:40:18 PM Error [http-nio-8500-exec-5] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:40:45 PM Error [http-nio-8500-exec-6] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:40:46 PM Error [http-nio-8500-exec-7] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:40:46 PM Error [http-nio-8500-exec-8] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:40:46 PM Error [http-nio-8500-exec-9] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:41:01 PM Error [http-nio-8500-exec-10] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:41:02 PM Error [http-nio-8500-exec-1] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:41:02 PM Error [http-nio-8500-exec-2] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 55
+Mar 2, 2021 16:41:10 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:41:12 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:41:53 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:41:59 PM Error [http-nio-8500-exec-6] - Variable FIRSTNAME is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:43:30 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in CFFORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:44:14 PM Error [http-nio-8500-exec-8] - Element FIRST_NAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:44:20 PM Error [http-nio-8500-exec-9] - Element FIRST_NAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:44:20 PM Error [http-nio-8500-exec-10] - Element FIRST_NAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:44:40 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:44:43 PM Error [http-nio-8500-exec-2] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:45:27 PM Error [http-nio-8500-exec-3] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:45:28 PM Error [http-nio-8500-exec-4] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:45:28 PM Error [http-nio-8500-exec-5] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:45:28 PM Error [http-nio-8500-exec-6] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 13
+Mar 2, 2021 16:46:56 PM Error [http-nio-8500-exec-7] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 12
+Mar 2, 2021 16:47:33 PM Error [http-nio-8500-exec-8] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 12
+Mar 2, 2021 16:47:33 PM Error [http-nio-8500-exec-9] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 12
+Mar 2, 2021 16:47:34 PM Error [http-nio-8500-exec-10] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 12
+Mar 2, 2021 16:47:34 PM Error [http-nio-8500-exec-1] - Element FIRSTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 12
+Mar 2, 2021 16:48:13 PM Error [http-nio-8500-exec-2] - Variable FIRSTNAME is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 12
+Mar 2, 2021 16:48:21 PM Error [http-nio-8500-exec-3] - Variable FIRST_NAME is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 12
+Mar 2, 2021 16:51:22 PM Error [http-nio-8500-exec-4] - Context validation error for the cfif tag.The start tag must have a matching end tag.  An explicit end tag can be provided by adding </cfif>.  If the body of the tag is empty, you can use the shortcut <cfif .../>. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 2
+Mar 2, 2021 16:51:54 PM Error [http-nio-8500-exec-5] - Element FIRST_NAME is undefined in USERTOUPDATE. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 57
+Mar 2, 2021 16:54:49 PM Error [http-nio-8500-exec-10] - Element STATES is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 27
+Mar 2, 2021 16:55:07 PM Error [http-nio-8500-exec-1] - Element STATES is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 27
+Mar 2, 2021 16:55:44 PM Error [http-nio-8500-exec-2] - Element STATES is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 27
+Mar 2, 2021 16:56:13 PM Error [http-nio-8500-exec-5] - Element STATES is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 27
+Mar 2, 2021 16:56:53 PM Error [http-nio-8500-exec-8] - Element STATES is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 27
+Mar 2, 2021 16:56:59 PM Error [http-nio-8500-exec-10] - Element STATES is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 27
+Mar 2, 2021 16:57:40 PM Information [scheduler-4] - Run Client Storage Purge
+Mar 2, 2021 16:58:12 PM Error [http-nio-8500-exec-3] - Element STATES is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/update_action.cfm, line: 27
+Mar 2, 2021 17:18:51 PM Error [http-nio-8500-exec-9] - Variable TEXT2 is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 66
+Mar 2, 2021 17:19:01 PM Error [http-nio-8500-exec-10] - Variable TEXT1 is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 66
+Mar 2, 2021 17:19:13 PM Error [http-nio-8500-exec-1] - Variable TEXT1 is undefined. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 67
+Mar 2, 2021 17:21:51 PM Error [http-nio-8500-exec-9] - Attribute validation error.A duplicate attribute STYLE has been encountered. Attributes with the same name cannot be provided more than once. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 67
+Mar 2, 2021 17:21:56 PM Error [http-nio-8500-exec-10] - Attribute validation error.A duplicate attribute STYLE has been encountered. Attributes with the same name cannot be provided more than once. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 67
+Mar 2, 2021 17:35:36 PM Error [http-nio-8500-exec-7] - Element TESTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 14
+Mar 2, 2021 17:36:29 PM Error [http-nio-8500-exec-8] - Context validation error for tag cfif.Either the end tag </cfif> encountered on line 126 at column 3 requires a matching start tag or tag cfif does not support end tag. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 126
+Mar 2, 2021 17:36:52 PM Error [http-nio-8500-exec-9] - Element TESTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 14
+Mar 2, 2021 17:38:47 PM Error [http-nio-8500-exec-10] - Element TESTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 14
+Mar 2, 2021 17:38:50 PM Error [http-nio-8500-exec-1] - Element TESTNAME is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 14
+Mar 2, 2021 17:41:36 PM Error [http-nio-8500-exec-8] - Element SHORTRESPONSE4 is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 14
+Mar 2, 2021 17:41:51 PM Error [http-nio-8500-exec-9] - Element SHORTRESPONSE4 is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 14
+Mar 2, 2021 17:41:54 PM Error [http-nio-8500-exec-10] - Element SHORTRESPONSE4 is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 14
+Mar 2, 2021 17:42:18 PM Error [http-nio-8500-exec-1] - Element SHORTRESPONSE4 is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 14
+Mar 2, 2021 17:42:22 PM Error [http-nio-8500-exec-3] - Element SHORTRESPONSE2 is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 14
+Mar 2, 2021 17:43:27 PM Error [http-nio-8500-exec-8] - Element SHORTRESPONSE5 is undefined in FORM. The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 14
+Mar 2, 2021 17:43:58 PM Error [http-nio-8500-exec-6] - Error Executing Database Query.Column count doesn't match value count at row 1 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/create.cfm, line: 14
+Mar 2, 2021 18:04:40 PM Information [scheduler-4] - Run Client Storage Purge
+Mar 2, 2021 19:34:28 PM Information [scheduler-2] - Run Client Storage Purge
+Mar 2, 2021 20:45:12 PM Information [scheduler-4] - Run Client Storage Purge
+Mar 2, 2021 21:15:28 PM Error [http-nio-8500-exec-8] - Error Executing Database Query.Data truncation: Data too long for column 'shortresponse' at row 1 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 2, 2021 21:15:47 PM Error [http-nio-8500-exec-9] - Error Executing Database Query.Data truncation: Data too long for column 'shortresponse' at row 1 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 2, 2021 21:16:36 PM Error [http-nio-8500-exec-10] - Error Executing Database Query.Data truncation: Data too long for column 'shortresponse' at row 1 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 2, 2021 21:16:53 PM Error [http-nio-8500-exec-2] - Error Executing Database Query.Data truncation: Data too long for column 'shortresponse' at row 1 The specific sequence of files included or processed is: /Users/ajwietechaii/Desktop/ColdFusion/cfusion/wwwroot/test-coldfusion/restapi/index.cfm, line: 24
+Mar 2, 2021 21:37:05 PM Information [http-nio-8500-exec-9] - Session rotated successfully.
+Mar 2, 2021 21:38:25 PM Information [http-nio-8500-exec-6] - Session rotated successfully.
+Mar 2, 2021 22:13:55 PM Information [scheduler-3] - Run Client Storage Purge
+Mar 2, 2021 23:21:26 PM Information [scheduler-1] - Run Client Storage Purge
+Mar 3, 2021 00:29:37 AM Information [scheduler-0] - Run Client Storage Purge
+Mar 3, 2021 01:58:30 AM Information [scheduler-2] - Run Client Storage Purge
+Mar 3, 2021 03:08:40 AM Information [scheduler-0] - Run Client Storage Purge
+Mar 3, 2021 04:19:35 AM Information [scheduler-2] - Run Client Storage Purge
+Mar 3, 2021 05:30:15 AM Information [scheduler-3] - Run Client Storage Purge
+Mar 3, 2021 06:40:50 AM Information [scheduler-4] - Run Client Storage Purge
+Mar 3, 2021 07:51:30 AM Information [scheduler-0] - Run Client Storage Purge
+Mar 3, 2021 09:02:10 AM Information [scheduler-4] - Run Client Storage Purge
+Mar 3, 2021 10:12:51 AM Information [scheduler-2] - Run Client Storage Purge
+Mar 3, 2021 11:23:31 AM Information [scheduler-5] - Run Client Storage Purge
+Mar 3, 2021 12:30:31 PM Information [scheduler-0] - Run Client Storage Purge
+Mar 3, 2021 13:37:31 PM Information [scheduler-5] - Run Client Storage Purge
+Mar 3, 2021 14:44:31 PM Information [scheduler-1] - Run Client Storage Purge

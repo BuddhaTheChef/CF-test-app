@@ -1,0 +1,22 @@
+	# DEFAULT CACHE REGION
+
+# sets the default aux value for any non configured caches
+jcs.default=
+jcs.default.elementattributes.IdleTime=86400
+jcs.default.elementattributes.MaxLife=86400
+jcs.default.elementattributes.IsEternal=false
+jcs.default.cacheattributes.MaxObjects=10000
+jcs.default.cacheattributes.DiskUsagePattern=UPDATE
+jcs.default.cacheattributes.SpoolChunkSize=1
+
+##############################################################
+################## AUXILIARY CACHES AVAILABLE ################
+# MYSQL disk cache used for flight options
+#jcs.auxiliary.MYSQL=org.apache.commons.jcs.auxiliary.disk.jdbc.JDBCDiskCacheFactory
+#jcs.auxiliary.MYSQL.attributes=org.apache.commons.jcs.auxiliary.disk.jdbc.JDBCDiskCacheAttributes
+#jcs.auxiliary.MYSQL.attributes.userName=root
+#jcs.auxiliary.MYSQL.attributes.password=PASSWORD
+#jcs.auxiliary.MYSQL.attributes.url=jdbc:mysql://localhost:3306/db_name
+#jcs.auxiliary.MYSQL.attributes.driverClassName=com.mysql.jdbc.Driver
+#jcs.auxiliary.MYSQL.attributes.tableName=JCS_STORE
+#jcs.auxiliary.MYSQL.attributes.UseDiskShrinker=false

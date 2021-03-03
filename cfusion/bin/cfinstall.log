@@ -1,0 +1,10 @@
+2021-02-26 17:30:28 INFO  - 
+ Welcome to the ColdFusion Setup Wizard 
+
+2021-02-26 17:33:12 INFO  - Updating server.xml with Administrator port. : 8500
+2021-02-26 17:33:12 INFO  - Congratulations! You have successfully configured Adobe ColdFusion 2021.
+
+To continue with your installation, go to /Users/ajwietechaii/Desktop/ColdFusion/cfusion/bin and type "./coldfusion start" to start your server.
+
+Once the server is started, log in to the configuration wizard at 
+http://127.0.0.1:8500/CFIDE/administrator/index.cfm. 

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<update autocheck="false" checkinterval="10" checkperiodically="false" sendupdate="true">
+		<url>https://www.adobe.com/go/coldfusion-updates</url>
+		<defaulturl>https://www.adobe.com/go/coldfusion-updates</defaulturl>
+		<packagesurl>https://www.adobe.com/go/coldfusion-packages</packagesurl>
+		<defaultpackagesurl>https://www.adobe.com/go/coldfusion-packages</defaultpackagesurl>
+		<notification>
+			<emaillist/>
+			<fromemail/>
+		</notification>
+	</update>
+	<proxy>
+		<hostname></hostname>
+		<port></port>
+		<username></username>
+		<password></password>
+	</proxy>
+</settings>
